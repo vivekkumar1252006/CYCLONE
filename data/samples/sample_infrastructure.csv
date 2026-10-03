@@ -1,0 +1,11 @@
+name,asset_type,lat,lon,district,elevation_m,age_years,historical_damage_count,criticality,capacity
+SAMPLE Puri Grid Substation,power_substation,19.812,85.815,Puri,3.5,28,2,,132/33 kV
+SAMPLE District HQ Hospital Puri,hospital,19.805,85.830,Puri,,35,1,1.0,300 beds
+SAMPLE Konark Road Bridge,bridge,19.890,86.050,Puri,4,40,,,
+SAMPLE Bhubaneswar Telecom Tower,mobile tower,20.296,85.824,Khordha,,12,0,,
+SAMPLE Paradip Water Treatment Plant,water_facility,20.270,86.600,Jagatsinghpur,2.5,22,3,,
+SAMPLE Astaranga Cyclone Shelter,cyclone shelter,19.990,86.300,Puri,,8,0,,1500 persons
+SAMPLE NH16 Segment Cuttack,road,20.480,85.900,Cuttack,,30,1,,
+SAMPLE Invalid Row - bad type,spaceport,19.900,85.900,Puri,,,,,
+SAMPLE Invalid Row - outside region,school,28.610,77.200,Delhi,,,,,
+SAMPLE Invalid Row - bad latitude,school,abc,85.900,Puri,,,,,

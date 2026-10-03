@@ -1,0 +1,20 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+sqlalchemy==2.0.36
+pydantic>=2.6
+pydantic-settings>=2.2
+python-multipart>=0.0.9
+# numpy/scipy/scikit-learn pinned to widely-distributed wheels (newer wheels were blocked by
+# Windows Smart App Control on the dev machine; any recent version works on Linux/Docker)
+numpy==2.2.6
+scipy==1.15.2
+pandas>=2.2
+scikit-learn==1.6.1
+joblib>=1.3
+httpx>=0.27
+pytest>=8.0
+# Optional: enables the XGBoost backend for the vulnerability model (falls back to RandomForest)
+# xgboost>=2.0
+# Optional: PostgreSQL/PostGIS backend
+# psycopg2-binary>=2.9
+# geoalchemy2>=0.14

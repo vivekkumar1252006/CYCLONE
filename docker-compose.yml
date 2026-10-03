@@ -1,0 +1,44 @@
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    environment:
+      POSTGRES_DB: cycloneguard
+      POSTGRES_USER: cycloneguard
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-change-me-locally}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./docker/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+      - ./docker/postgres/postgis_upgrade.sql:/opt/postgis_upgrade.sql:ro   # optional, run manually
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U cycloneguard -d cycloneguard"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  backend:
+    build:
+      context: .
+      dockerfile: docker/backend.Dockerfile
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      DATABASE_URL: postgresql+psycopg2://cycloneguard:${POSTGRES_PASSWORD:-change-me-locally}@db:5432/cycloneguard
+      CORS_ORIGINS: http://localhost:8080
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/frontend.Dockerfile
+    depends_on:
+      - backend
+    ports:
+      - "8080:8080"
+
+volumes:
+  pgdata:

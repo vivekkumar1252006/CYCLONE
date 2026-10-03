@@ -1,0 +1,12 @@
+{
+  "name": "SAMPLE User Track (synthetic example)",
+  "description": "Example payload for POST /api/cyclones. Synthetic values for testing only.",
+  "points": [
+    {"time": "2026-10-01T00:00:00Z", "lat": 16.5, "lon": 87.5, "wind_kmh": 90, "pressure_hpa": 988, "is_forecast": false},
+    {"time": "2026-10-01T12:00:00Z", "lat": 17.4, "lon": 87.1, "wind_kmh": 120, "pressure_hpa": 978, "is_forecast": false},
+    {"time": "2026-10-02T00:00:00Z", "lat": 18.3, "lon": 86.7, "wind_kmh": 140, "pressure_hpa": 970, "is_forecast": true},
+    {"time": "2026-10-02T12:00:00Z", "lat": 19.4, "lon": 86.3, "wind_kmh": 145, "pressure_hpa": 968, "is_forecast": true},
+    {"time": "2026-10-03T00:00:00Z", "lat": 20.3, "lon": 86.1, "wind_kmh": 100, "pressure_hpa": 982, "is_forecast": true},
+    {"time": "2026-10-03T12:00:00Z", "lat": 21.0, "lon": 85.9, "wind_kmh": 60, "pressure_hpa": 994, "is_forecast": true}
+  ]
+}

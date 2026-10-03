@@ -1,0 +1,321 @@
+asset,type,district,risk_score,risk_category,confidence,main_hazard
+Power Substation - Puri #01,power_substation,Puri,80.7,Very High,0.621,Wind
+Emergency Shelter - Puri #06,emergency_shelter,Puri,77.3,Very High,0.546,Wind
+Emergency Shelter - Puri #05,emergency_shelter,Puri,76.9,Very High,0.483,Wind
+School - Puri #01,school,Puri,74.8,High,0.552,Wind
+Emergency Shelter - Puri #04,emergency_shelter,Puri,71.7,High,0.472,Rainfall
+Emergency Shelter - Puri #02,emergency_shelter,Puri,71.4,High,0.485,Wind
+Water Facility - Jagatsinghpur #01,water_facility,Jagatsinghpur,70.7,High,0.59,Flooding
+Hospital - Puri #02,hospital,Puri,69.9,High,0.538,Flooding
+Mobile Tower - Jagatsinghpur #05,mobile_tower,Jagatsinghpur,68.8,High,0.532,Flooding
+Emergency Shelter - Puri #01,emergency_shelter,Puri,68.3,High,0.576,Flooding
+Road Segment - Puri #04,road,Puri,67.9,High,0.463,Wind
+School - Puri #03,school,Puri,67.9,High,0.527,Wind
+Power Substation - Jagatsinghpur #03,power_substation,Jagatsinghpur,67.1,High,0.539,Flooding
+Mobile Tower - Jagatsinghpur #04,mobile_tower,Jagatsinghpur,66.8,High,0.564,Rainfall
+Road Segment - Puri #06,road,Puri,66.3,High,0.55,Flooding
+Power Substation - Jagatsinghpur #01,power_substation,Jagatsinghpur,65.3,High,0.538,Flooding
+Power Substation - Jagatsinghpur #02,power_substation,Jagatsinghpur,64.3,High,0.551,Flooding
+Mobile Tower - Cuttack #04,mobile_tower,Cuttack,64.3,High,0.501,Flooding
+Emergency Shelter - Puri #03,emergency_shelter,Puri,64.0,High,0.472,Wind
+School - Puri #02,school,Puri,62.8,High,0.522,Wind
+Road Segment - Jagatsinghpur #06,road,Jagatsinghpur,62.0,High,0.575,Flooding
+Mobile Tower - Jagatsinghpur #01,mobile_tower,Jagatsinghpur,61.9,High,0.492,Flooding
+Mobile Tower - Jagatsinghpur #02,mobile_tower,Jagatsinghpur,61.6,High,0.536,Rainfall
+Road Segment - Puri #05,road,Puri,60.9,High,0.571,Flooding
+Road Segment - Puri #03,road,Puri,59.8,High,0.517,Wind
+Emergency Shelter - Jagatsinghpur #03,emergency_shelter,Jagatsinghpur,59.7,High,0.599,Flooding
+Mobile Tower - Cuttack #01,mobile_tower,Cuttack,59.4,High,0.527,Flooding
+Bridge - Cuttack #01,bridge,Cuttack,59.1,High,0.505,Flooding
+Water Facility - Kendrapara #01,water_facility,Kendrapara,58.8,High,0.647,Flooding
+Road Segment - Jagatsinghpur #05,road,Jagatsinghpur,58.7,High,0.638,Flooding
+Mobile Tower - Cuttack #03,mobile_tower,Cuttack,58.6,High,0.476,Flooding
+Water Facility - Kendrapara #02,water_facility,Kendrapara,58.6,High,0.677,Flooding
+Emergency Shelter - Kendrapara #05,emergency_shelter,Kendrapara,58.3,High,0.648,Flooding
+Emergency Shelter - Jagatsinghpur #04,emergency_shelter,Jagatsinghpur,58.2,High,0.645,Flooding
+Road Segment - Puri #01,road,Puri,57.9,High,0.448,Wind
+Hospital - Puri #01,hospital,Puri,57.9,High,0.622,Flooding
+Water Facility - Kendrapara #03,water_facility,Kendrapara,57.8,High,0.661,Flooding
+Water Facility - Cuttack #01,water_facility,Cuttack,57.2,High,0.518,Flooding
+Bridge - Cuttack #03,bridge,Cuttack,56.8,High,0.578,Flooding
+Road Segment - Jagatsinghpur #04,road,Jagatsinghpur,55.9,High,0.568,Flooding
+School - Jagatsinghpur #02,school,Jagatsinghpur,55.9,High,0.626,Flooding
+Road Segment - Puri #02,road,Puri,55.2,High,0.453,Wind
+Emergency Shelter - Jagatsinghpur #02,emergency_shelter,Jagatsinghpur,55.1,High,0.64,Flooding
+Bridge - Jagatsinghpur #02,bridge,Jagatsinghpur,54.7,High,0.611,Flooding
+Bridge - Jagatsinghpur #01,bridge,Jagatsinghpur,54.0,High,0.597,Flooding
+Bridge - Cuttack #02,bridge,Cuttack,53.6,High,0.59,Flooding
+Emergency Shelter - Jagatsinghpur #01,emergency_shelter,Jagatsinghpur,53.4,High,0.67,Flooding
+School - Jagatsinghpur #01,school,Jagatsinghpur,53.3,High,0.587,Flooding
+Road Segment - Jagatsinghpur #03,road,Jagatsinghpur,53.0,High,0.649,Flooding
+Road Segment - Puri #07,road,Puri,53.0,High,0.49,Wind
+Power Substation - Khordha #01,power_substation,Khordha,52.9,High,0.48,Rainfall
+Mobile Tower - Jagatsinghpur #03,mobile_tower,Jagatsinghpur,52.7,High,0.591,Flooding
+Power Substation - Kendrapara #03,power_substation,Kendrapara,52.5,High,0.609,Flooding
+Mobile Tower - Khordha #02,mobile_tower,Khordha,52.4,High,0.487,Rainfall
+School - Khordha #03,school,Khordha,52.0,High,0.484,Rainfall
+Hospital - Cuttack #01,hospital,Cuttack,51.9,High,0.539,Flooding
+School - Cuttack #02,school,Cuttack,51.8,High,0.562,Flooding
+School - Cuttack #01,school,Cuttack,51.7,High,0.486,Flooding
+Hospital - Ganjam #03,hospital,Ganjam,51.2,High,0.738,Flooding
+Bridge - Kendrapara #01,bridge,Kendrapara,51.0,High,0.726,Flooding
+Power Substation - Khordha #02,power_substation,Khordha,51.0,High,0.476,Rainfall
+Road Segment - Jagatsinghpur #01,road,Jagatsinghpur,50.9,High,0.629,Rainfall
+Mobile Tower - Khordha #01,mobile_tower,Khordha,49.6,Moderate,0.449,Rainfall
+Emergency Shelter - Bhadrak #03,emergency_shelter,Bhadrak,49.4,Moderate,0.713,Flooding
+School - Khordha #04,school,Khordha,49.1,Moderate,0.488,Rainfall
+School - Khordha #02,school,Khordha,48.8,Moderate,0.472,Rainfall
+Emergency Shelter - Bhadrak #05,emergency_shelter,Bhadrak,48.8,Moderate,0.704,Flooding
+Mobile Tower - Ganjam #01,mobile_tower,Ganjam,48.7,Moderate,0.643,Rainfall
+Emergency Shelter - Kendrapara #08,emergency_shelter,Kendrapara,48.7,Moderate,0.683,Flooding
+Road Segment - Khordha #01,road,Khordha,48.4,Moderate,0.497,Rainfall
+Emergency Shelter - Khordha #02,emergency_shelter,Khordha,48.3,Moderate,0.582,Rainfall
+Hospital - Kendrapara #03,hospital,Kendrapara,48.3,Moderate,0.688,Flooding
+Railway Infrastructure - Khordha #03,railway,Khordha,48.3,Moderate,0.489,Rainfall
+Power Substation - Cuttack #01,power_substation,Cuttack,48.1,Moderate,0.517,Flooding
+Emergency Shelter - Kendrapara #04,emergency_shelter,Kendrapara,47.8,Moderate,0.715,Flooding
+Road Segment - Jagatsinghpur #02,road,Jagatsinghpur,47.5,Moderate,0.581,Rainfall
+Railway Infrastructure - Khordha #01,railway,Khordha,47.3,Moderate,0.479,Rainfall
+Road Segment - Kendrapara #04,road,Kendrapara,47.2,Moderate,0.711,Flooding
+Emergency Shelter - Khordha #01,emergency_shelter,Khordha,47.1,Moderate,0.52,Rainfall
+Water Facility - Khordha #03,water_facility,Khordha,47.1,Moderate,0.528,Rainfall
+Railway Infrastructure - Khordha #02,railway,Khordha,46.9,Moderate,0.513,Rainfall
+Power Substation - Kendrapara #02,power_substation,Kendrapara,46.9,Moderate,0.562,Flooding
+Railway Infrastructure - Cuttack #03,railway,Cuttack,46.5,Moderate,0.537,Rainfall
+Bridge - Bhadrak #01,bridge,Bhadrak,46.4,Moderate,0.651,Flooding
+School - Khordha #01,school,Khordha,46.2,Moderate,0.472,Rainfall
+Power Substation - Kendrapara #01,power_substation,Kendrapara,46.2,Moderate,0.606,Flooding
+Water Facility - Khordha #02,water_facility,Khordha,45.7,Moderate,0.498,Rainfall
+Railway Infrastructure - Cuttack #01,railway,Cuttack,45.6,Moderate,0.538,Rainfall
+Water Facility - Khordha #01,water_facility,Khordha,45.2,Moderate,0.501,Rainfall
+Road Segment - Cuttack #01,road,Cuttack,44.6,Moderate,0.571,Rainfall
+Mobile Tower - Cuttack #02,mobile_tower,Cuttack,44.4,Moderate,0.511,Rainfall
+Emergency Shelter - Kendrapara #09,emergency_shelter,Kendrapara,44.4,Moderate,0.659,Rainfall
+Railway Infrastructure - Cuttack #04,railway,Cuttack,44.3,Moderate,0.554,Rainfall
+Emergency Shelter - Kendrapara #03,emergency_shelter,Kendrapara,44.0,Moderate,0.7,Flooding
+Bridge - Balasore #06,bridge,Balasore,43.9,Moderate,0.673,Flooding
+Railway Infrastructure - Cuttack #02,railway,Cuttack,43.8,Moderate,0.569,Rainfall
+Mobile Tower - Bhadrak #05,mobile_tower,Bhadrak,43.1,Moderate,0.63,Flooding
+Bridge - Jajpur #01,bridge,Jajpur,42.7,Moderate,0.51,Flooding
+Water Facility - Dhenkanal #01,water_facility,Dhenkanal,42.1,Moderate,0.499,Rainfall
+Water Facility - Jajpur #01,water_facility,Jajpur,41.8,Moderate,0.515,Rainfall
+Hospital - Kendrapara #01,hospital,Kendrapara,41.7,Moderate,0.683,Rainfall
+School - Kendrapara #01,school,Kendrapara,41.7,Moderate,0.706,Flooding
+Emergency Shelter - Ganjam #03,emergency_shelter,Ganjam,41.2,Moderate,0.729,Rainfall
+Bridge - Balasore #02,bridge,Balasore,40.0,Moderate,0.699,Flooding
+Mobile Tower - Kendrapara #01,mobile_tower,Kendrapara,39.9,Moderate,0.701,Flooding
+Bridge - Balasore #07,bridge,Balasore,39.8,Moderate,0.701,Flooding
+Hospital - Kendrapara #02,hospital,Kendrapara,39.7,Moderate,0.719,Flooding
+Road Segment - Kendrapara #01,road,Kendrapara,38.6,Moderate,0.77,Flooding
+Bridge - Jajpur #02,bridge,Jajpur,38.6,Moderate,0.617,Flooding
+School - Kendrapara #02,school,Kendrapara,38.6,Moderate,0.659,Flooding
+Mobile Tower - Jajpur #01,mobile_tower,Jajpur,38.5,Moderate,0.502,Rainfall
+Road Segment - Kendrapara #03,road,Kendrapara,38.5,Moderate,0.684,Flooding
+Hospital - Cuttack #02,hospital,Cuttack,38.3,Moderate,0.602,Rainfall
+Railway Infrastructure - Nayagarh #02,railway,Nayagarh,38.0,Moderate,0.676,Rainfall
+Road Segment - Jajpur #02,road,Jajpur,37.9,Moderate,0.585,Flooding
+Emergency Shelter - Kendrapara #01,emergency_shelter,Kendrapara,37.7,Moderate,0.7,Rainfall
+Bridge - Ganjam #02,bridge,Ganjam,37.7,Moderate,0.746,Rainfall
+Hospital - Bhadrak #01,hospital,Bhadrak,37.4,Moderate,0.681,Flooding
+Railway Infrastructure - Nayagarh #01,railway,Nayagarh,37.2,Moderate,0.651,Rainfall
+Road Segment - Kendrapara #02,road,Kendrapara,37.2,Moderate,0.614,Rainfall
+Emergency Shelter - Ganjam #01,emergency_shelter,Ganjam,36.5,Moderate,0.761,Rainfall
+School - Jajpur #04,school,Jajpur,36.5,Moderate,0.551,Rainfall
+Mobile Tower - Bhadrak #01,mobile_tower,Bhadrak,36.0,Moderate,0.632,Flooding
+Mobile Tower - Nayagarh #02,mobile_tower,Nayagarh,35.8,Moderate,0.623,Rainfall
+Emergency Shelter - Kendrapara #07,emergency_shelter,Kendrapara,35.8,Moderate,0.706,Flooding
+Emergency Shelter - Kendrapara #02,emergency_shelter,Kendrapara,35.7,Moderate,0.774,Rainfall
+Water Facility - Balasore #03,water_facility,Balasore,35.2,Moderate,0.71,Flooding
+School - Jajpur #02,school,Jajpur,35.1,Moderate,0.542,Rainfall
+Road Segment - Kendrapara #05,road,Kendrapara,34.9,Moderate,0.656,Flooding
+Bridge - Balasore #04,bridge,Balasore,34.4,Moderate,0.74,Flooding
+Water Facility - Ganjam #05,water_facility,Ganjam,34.3,Moderate,0.759,Rainfall
+Bridge - Jajpur #05,bridge,Jajpur,33.9,Moderate,0.564,Rainfall
+Emergency Shelter - Kendrapara #06,emergency_shelter,Kendrapara,33.7,Moderate,0.725,Rainfall
+Emergency Shelter - Jajpur #02,emergency_shelter,Jajpur,33.4,Moderate,0.679,Rainfall
+Road Segment - Ganjam #09,road,Ganjam,33.2,Moderate,0.725,Rainfall
+Bridge - Jajpur #04,bridge,Jajpur,32.4,Moderate,0.604,Rainfall
+Bridge - Jajpur #03,bridge,Jajpur,32.2,Moderate,0.634,Rainfall
+Bridge - Ganjam #05,bridge,Ganjam,32.0,Moderate,0.793,Rainfall
+School - Nayagarh #04,school,Nayagarh,31.9,Moderate,0.688,Rainfall
+Bridge - Balasore #03,bridge,Balasore,31.7,Moderate,0.701,Flooding
+Mobile Tower - Jajpur #02,mobile_tower,Jajpur,31.5,Moderate,0.601,Rainfall
+Hospital - Jajpur #01,hospital,Jajpur,31.4,Moderate,0.654,Rainfall
+Road Segment - Jajpur #01,road,Jajpur,31.3,Moderate,0.637,Rainfall
+School - Nayagarh #05,school,Nayagarh,31.3,Moderate,0.65,Rainfall
+Emergency Shelter - Jajpur #01,emergency_shelter,Jajpur,31.2,Moderate,0.632,Rainfall
+School - Jajpur #01,school,Jajpur,31.1,Moderate,0.606,Rainfall
+Railway Infrastructure - Ganjam #01,railway,Ganjam,30.9,Moderate,0.762,Rainfall
+School - Bhadrak #01,school,Bhadrak,30.5,Moderate,0.701,Flooding
+Road Segment - Bhadrak #05,road,Bhadrak,30.4,Moderate,0.728,Flooding
+Bridge - Ganjam #01,bridge,Ganjam,30.3,Moderate,0.794,Rainfall
+Water Facility - Ganjam #02,water_facility,Ganjam,30.2,Moderate,0.781,Rainfall
+Power Substation - Jajpur #01,power_substation,Jajpur,30.0,Moderate,0.54,Rainfall
+Emergency Shelter - Bhadrak #04,emergency_shelter,Bhadrak,30.0,Moderate,0.724,Rainfall
+Power Substation - Bhadrak #01,power_substation,Bhadrak,29.7,Moderate,0.558,Rainfall
+Emergency Shelter - Ganjam #02,emergency_shelter,Ganjam,29.5,Moderate,0.815,Rainfall
+Mobile Tower - Bhadrak #03,mobile_tower,Bhadrak,29.4,Moderate,0.618,Rainfall
+School - Bhadrak #02,school,Bhadrak,29.0,Moderate,0.696,Rainfall
+School - Jajpur #03,school,Jajpur,28.6,Moderate,0.607,Rainfall
+Road Segment - Jajpur #03,road,Jajpur,28.6,Moderate,0.577,Rainfall
+Mobile Tower - Kendujhar #01,mobile_tower,Kendujhar,28.4,Moderate,0.524,Rainfall
+Road Segment - Bhadrak #04,road,Bhadrak,28.3,Moderate,0.693,Rainfall
+School - Jajpur #05,school,Jajpur,28.2,Moderate,0.609,Rainfall
+Railway Infrastructure - Bhadrak #01,railway,Bhadrak,28.1,Moderate,0.658,Rainfall
+Mobile Tower - Bhadrak #04,mobile_tower,Bhadrak,28.0,Moderate,0.584,Rainfall
+Emergency Shelter - Bhadrak #01,emergency_shelter,Bhadrak,27.9,Moderate,0.767,Rainfall
+Water Facility - Balasore #01,water_facility,Balasore,27.7,Moderate,0.726,Rainfall
+Emergency Shelter - Bhadrak #02,emergency_shelter,Bhadrak,27.6,Moderate,0.735,Rainfall
+Emergency Shelter - Dhenkanal #01,emergency_shelter,Dhenkanal,27.6,Moderate,0.639,Rainfall
+Emergency Shelter - Balasore #05,emergency_shelter,Balasore,27.2,Moderate,0.733,Rainfall
+Power Substation - Ganjam #02,power_substation,Ganjam,27.0,Moderate,0.806,Rainfall
+Power Substation - Ganjam #01,power_substation,Ganjam,26.9,Moderate,0.767,Rainfall
+Bridge - Dhenkanal #02,bridge,Dhenkanal,26.7,Moderate,0.726,Rainfall
+Mobile Tower - Nayagarh #01,mobile_tower,Nayagarh,26.6,Moderate,0.706,Rainfall
+Bridge - Dhenkanal #01,bridge,Dhenkanal,25.9,Moderate,0.724,Rainfall
+Power Substation - Mayurbhanj #03,power_substation,Mayurbhanj,25.2,Moderate,0.496,Rainfall
+School - Ganjam #05,school,Ganjam,25.1,Moderate,0.838,Rainfall
+Railway Infrastructure - Ganjam #02,railway,Ganjam,25.0,Low,0.866,Rainfall
+Mobile Tower - Kendujhar #03,mobile_tower,Kendujhar,24.9,Low,0.494,Rainfall
+School - Nayagarh #02,school,Nayagarh,24.6,Low,0.685,Rainfall
+Mobile Tower - Bhadrak #02,mobile_tower,Bhadrak,24.5,Low,0.61,Rainfall
+Mobile Tower - Ganjam #02,mobile_tower,Ganjam,24.3,Low,0.76,Rainfall
+Emergency Shelter - Balasore #01,emergency_shelter,Balasore,24.2,Low,0.73,Rainfall
+Water Facility - Bhadrak #01,water_facility,Bhadrak,24.0,Low,0.65,Rainfall
+Mobile Tower - Ganjam #04,mobile_tower,Ganjam,23.7,Low,0.822,Rainfall
+Hospital - Bhadrak #02,hospital,Bhadrak,23.7,Low,0.676,Rainfall
+Emergency Shelter - Balasore #02,emergency_shelter,Balasore,23.6,Low,0.719,Rainfall
+Road Segment - Bhadrak #01,road,Bhadrak,23.3,Low,0.682,Rainfall
+Road Segment - Bhadrak #03,road,Bhadrak,23.2,Low,0.731,Rainfall
+Power Substation - Kendujhar #01,power_substation,Kendujhar,23.0,Low,0.569,Rainfall
+Bridge - Ganjam #03,bridge,Ganjam,23.0,Low,0.863,Rainfall
+Mobile Tower - Mayurbhanj #01,mobile_tower,Mayurbhanj,22.9,Low,0.553,Rainfall
+Emergency Shelter - Ganjam #04,emergency_shelter,Ganjam,22.8,Low,0.872,Rainfall
+School - Ganjam #01,school,Ganjam,22.6,Low,0.789,Rainfall
+Emergency Shelter - Balasore #04,emergency_shelter,Balasore,21.6,Low,0.697,Rainfall
+Railway Infrastructure - Bhadrak #02,railway,Bhadrak,21.4,Low,0.73,Rainfall
+Road Segment - Bhadrak #02,road,Bhadrak,21.3,Low,0.655,Rainfall
+Bridge - Ganjam #04,bridge,Ganjam,21.1,Low,0.858,Rainfall
+School - Ganjam #04,school,Ganjam,20.9,Low,0.772,Rainfall
+Bridge - Balasore #01,bridge,Balasore,20.6,Low,0.693,Rainfall
+Hospital - Mayurbhanj #01,hospital,Mayurbhanj,20.6,Low,0.574,Rainfall
+Mobile Tower - Kendujhar #02,mobile_tower,Kendujhar,20.1,Low,0.601,Rainfall
+Mobile Tower - Balasore #04,mobile_tower,Balasore,19.9,Low,0.627,Rainfall
+Railway Infrastructure - Gajapati #01,railway,Gajapati,19.4,Low,0.884,Rainfall
+Mobile Tower - Ganjam #08,mobile_tower,Ganjam,19.0,Low,0.798,Rainfall
+Water Facility - Ganjam #06,water_facility,Ganjam,18.7,Low,0.838,Rainfall
+School - Bhadrak #03,school,Bhadrak,18.6,Low,0.684,Rainfall
+Road Segment - Ganjam #11,road,Ganjam,18.6,Low,0.83,Rainfall
+Road Segment - Ganjam #10,road,Ganjam,18.3,Low,0.822,Rainfall
+Power Substation - Balasore #01,power_substation,Balasore,18.1,Low,0.647,Rainfall
+Road Segment - Mayurbhanj #01,road,Mayurbhanj,18.1,Low,0.532,Rainfall
+Mobile Tower - Balasore #07,mobile_tower,Balasore,17.8,Low,0.713,Flooding
+Road Segment - Ganjam #12,road,Ganjam,17.8,Low,0.869,Rainfall
+Water Facility - Ganjam #04,water_facility,Ganjam,17.7,Low,0.851,Rainfall
+Road Segment - Ganjam #05,road,Ganjam,17.7,Low,0.873,Rainfall
+Road Segment - Mayurbhanj #02,road,Mayurbhanj,17.7,Low,0.675,Rainfall
+Hospital - Kendujhar #01,hospital,Kendujhar,17.6,Low,0.699,Rainfall
+School - Kendujhar #03,school,Kendujhar,17.5,Low,0.657,Rainfall
+Mobile Tower - Mayurbhanj #03,mobile_tower,Mayurbhanj,17.4,Low,0.51,Rainfall
+School - Ganjam #03,school,Ganjam,17.2,Low,0.846,Rainfall
+Hospital - Kendujhar #02,hospital,Kendujhar,17.2,Low,0.738,Rainfall
+Mobile Tower - Mayurbhanj #02,mobile_tower,Mayurbhanj,17.1,Low,0.509,Rainfall
+Hospital - Mayurbhanj #03,hospital,Mayurbhanj,17.1,Low,0.537,Rainfall
+Water Facility - Ganjam #01,water_facility,Ganjam,16.9,Low,0.879,Rainfall
+School - Balasore #01,school,Balasore,16.6,Low,0.699,Rainfall
+School - Mayurbhanj #02,school,Mayurbhanj,16.0,Low,0.519,Rainfall
+Road Segment - Ganjam #01,road,Ganjam,15.7,Low,0.88,Rainfall
+Road Segment - Ganjam #06,road,Ganjam,15.2,Low,0.892,Rainfall
+Road Segment - Ganjam #08,road,Ganjam,15.2,Low,0.854,Rainfall
+Road Segment - Ganjam #04,road,Ganjam,15.0,Low,0.85,Rainfall
+Road Segment - Ganjam #07,road,Ganjam,15.0,Low,0.879,Rainfall
+School - Ganjam #06,school,Ganjam,14.9,Low,0.845,Rainfall
+Emergency Shelter - Kendujhar #01,emergency_shelter,Kendujhar,14.8,Low,0.729,Rainfall
+Mobile Tower - Ganjam #07,mobile_tower,Ganjam,14.6,Low,0.807,Rainfall
+School - Mayurbhanj #01,school,Mayurbhanj,14.2,Low,0.565,Rainfall
+School - Dhenkanal #01,school,Dhenkanal,14.2,Low,0.734,Rainfall
+Power Substation - Mayurbhanj #02,power_substation,Mayurbhanj,13.8,Low,0.67,Rainfall
+School - Balasore #04,school,Balasore,13.7,Low,0.678,Rainfall
+Power Substation - Kendujhar #02,power_substation,Kendujhar,13.1,Low,0.674,Rainfall
+School - Nayagarh #03,school,Nayagarh,12.8,Low,0.794,Rainfall
+Road Segment - Mayurbhanj #03,road,Mayurbhanj,12.4,Low,0.587,Rainfall
+Mobile Tower - Ganjam #05,mobile_tower,Ganjam,12.4,Low,0.788,Rainfall
+School - Nayagarh #01,school,Nayagarh,12.0,Low,0.841,Rainfall
+Power Substation - Mayurbhanj #01,power_substation,Mayurbhanj,12.0,Low,0.683,Rainfall
+Road Segment - Ganjam #02,road,Ganjam,11.9,Low,0.857,Rainfall
+Mobile Tower - Ganjam #06,mobile_tower,Ganjam,11.9,Low,0.766,Rainfall
+Hospital - Mayurbhanj #02,hospital,Mayurbhanj,11.2,Low,0.664,Rainfall
+Road Segment - Srikakulam #18,road,Srikakulam,10.9,Low,0.91,Rainfall
+Road Segment - Ganjam #03,road,Ganjam,10.7,Low,0.857,Rainfall
+Water Facility - Srikakulam #01,water_facility,Srikakulam,10.5,Low,0.898,Rainfall
+Road Segment - Gajapati #01,road,Gajapati,10.4,Low,0.865,Rainfall
+Road Segment - Balasore #01,road,Balasore,10.3,Low,0.742,Rainfall
+Water Facility - Ganjam #07,water_facility,Ganjam,10.3,Low,0.887,Rainfall
+Bridge - Balasore #05,bridge,Balasore,10.1,Low,0.726,Rainfall
+Emergency Shelter - Srikakulam #01,emergency_shelter,Srikakulam,9.7,Low,0.884,Rainfall
+Hospital - Ganjam #01,hospital,Ganjam,9.7,Low,0.888,Rainfall
+School - Ganjam #02,school,Ganjam,8.9,Low,0.852,Rainfall
+Mobile Tower - Ganjam #03,mobile_tower,Ganjam,8.7,Low,0.808,Rainfall
+Hospital - Srikakulam #01,hospital,Srikakulam,8.7,Low,0.918,Rainfall
+Emergency Shelter - Balasore #03,emergency_shelter,Balasore,8.5,Low,0.782,Rainfall
+Hospital - Srikakulam #04,hospital,Srikakulam,8.4,Low,0.933,Rainfall
+Emergency Shelter - Mayurbhanj #01,emergency_shelter,Mayurbhanj,8.2,Low,0.717,Rainfall
+Road Segment - Gajapati #02,road,Gajapati,8.2,Low,0.898,Rainfall
+Water Facility - Ganjam #03,water_facility,Ganjam,8.0,Low,0.867,Rainfall
+Road Segment - Nayagarh #01,road,Nayagarh,7.6,Low,0.859,Rainfall
+Mobile Tower - Balasore #01,mobile_tower,Balasore,7.5,Low,0.686,Rainfall
+Power Substation - Balasore #03,power_substation,Balasore,7.3,Low,0.739,Rainfall
+Mobile Tower - Dhenkanal #01,mobile_tower,Dhenkanal,7.3,Low,0.725,Rainfall
+Hospital - Ganjam #02,hospital,Ganjam,7.1,Low,0.873,Rainfall
+Mobile Tower - Balasore #06,mobile_tower,Balasore,7.0,Low,0.74,Rainfall
+Water Facility - Balasore #02,water_facility,Balasore,6.5,Low,0.756,Rainfall
+Mobile Tower - Srikakulam #02,mobile_tower,Srikakulam,6.3,Low,0.88,Rainfall
+Power Substation - Balasore #02,power_substation,Balasore,5.8,Low,0.755,Rainfall
+Road Segment - Srikakulam #17,road,Srikakulam,5.7,Low,0.935,Rainfall
+Power Substation - Nayagarh #01,power_substation,Nayagarh,5.6,Low,0.852,Rainfall
+School - Balasore #02,school,Balasore,5.6,Low,0.729,Rainfall
+School - Balasore #07,school,Balasore,5.5,Low,0.721,Rainfall
+Road Segment - Srikakulam #11,road,Srikakulam,5.1,Low,0.937,Rainfall
+Emergency Shelter - Nayagarh #01,emergency_shelter,Nayagarh,5.0,Low,0.863,Rainfall
+Mobile Tower - Balasore #05,mobile_tower,Balasore,5.0,Low,0.737,Rainfall
+Road Segment - Balasore #02,road,Balasore,4.9,Low,0.792,Rainfall
+Mobile Tower - Balasore #02,mobile_tower,Balasore,4.8,Low,0.786,Rainfall
+School - Srikakulam #01,school,Srikakulam,4.7,Low,0.888,Rainfall
+School - Srikakulam #03,school,Srikakulam,4.6,Low,0.916,Rainfall
+Road Segment - Srikakulam #19,road,Srikakulam,4.5,Low,0.936,Rainfall
+Mobile Tower - Balasore #08,mobile_tower,Balasore,4.5,Low,0.696,Rainfall
+Road Segment - Srikakulam #01,road,Srikakulam,4.1,Low,0.935,Rainfall
+Mobile Tower - Srikakulam #01,mobile_tower,Srikakulam,4.0,Low,0.871,Rainfall
+School - Kendujhar #02,school,Kendujhar,4.0,Low,0.796,Rainfall
+Mobile Tower - Srikakulam #03,mobile_tower,Srikakulam,3.9,Low,0.85,Rainfall
+Road Segment - Kendujhar #02,road,Kendujhar,3.9,Low,0.787,Rainfall
+Road Segment - Srikakulam #08,road,Srikakulam,3.6,Low,0.938,Rainfall
+Road Segment - Srikakulam #09,road,Srikakulam,3.6,Low,0.904,Rainfall
+Road Segment - Srikakulam #02,road,Srikakulam,3.4,Low,0.937,Rainfall
+Mobile Tower - Balasore #03,mobile_tower,Balasore,3.4,Low,0.744,Rainfall
+School - Balasore #03,school,Balasore,3.4,Low,0.807,Rainfall
+School - Srikakulam #04,school,Srikakulam,3.4,Low,0.916,Rainfall
+Hospital - Srikakulam #03,hospital,Srikakulam,3.2,Low,0.938,Rainfall
+Road Segment - Srikakulam #07,road,Srikakulam,3.1,Low,0.903,Rainfall
+Hospital - Srikakulam #02,hospital,Srikakulam,3.1,Low,0.929,Rainfall
+Road Segment - Srikakulam #21,road,Srikakulam,3.1,Low,0.937,Rainfall
+Road Segment - Srikakulam #04,road,Srikakulam,2.9,Low,0.929,Rainfall
+Road Segment - Srikakulam #14,road,Srikakulam,2.9,Low,0.938,Rainfall
+Power Substation - Srikakulam #01,power_substation,Srikakulam,2.8,Low,0.93,Rainfall
+Hospital - Balasore #01,hospital,Balasore,2.7,Low,0.792,Rainfall
+Road Segment - Srikakulam #12,road,Srikakulam,2.6,Low,0.937,Rainfall
+Road Segment - Srikakulam #05,road,Srikakulam,2.5,Low,0.907,Rainfall
+Road Segment - Srikakulam #15,road,Srikakulam,2.5,Low,0.909,Rainfall
+Road Segment - Srikakulam #20,road,Srikakulam,2.5,Low,0.932,Rainfall
+Road Segment - Srikakulam #03,road,Srikakulam,2.4,Low,0.935,Rainfall
+Road Segment - Srikakulam #10,road,Srikakulam,2.4,Low,0.938,Rainfall
+Water Facility - Srikakulam #02,water_facility,Srikakulam,2.4,Low,0.939,Rainfall
+School - Balasore #06,school,Balasore,2.4,Low,0.797,Rainfall
+School - Kendujhar #01,school,Kendujhar,2.3,Low,0.819,Rainfall
+Emergency Shelter - Srikakulam #02,emergency_shelter,Srikakulam,2.3,Low,0.924,Rainfall
+Road Segment - Srikakulam #06,road,Srikakulam,2.2,Low,0.904,Rainfall
+School - Balasore #05,school,Balasore,2.2,Low,0.777,Rainfall
+Road Segment - Srikakulam #13,road,Srikakulam,1.9,Low,0.94,Rainfall
+School - Srikakulam #02,school,Srikakulam,1.9,Low,0.921,Rainfall
+Road Segment - Srikakulam #16,road,Srikakulam,1.7,Low,0.909,Rainfall
+Road Segment - Kendujhar #01,road,Kendujhar,0.6,Low,0.824,Flooding

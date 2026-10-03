@@ -1,0 +1,126 @@
+{
+ "name": "DEMO Cyclone ALPHA",
+ "data_mode": "DEMO / SIMULATED",
+ "points": [
+  {
+   "time": "2026-10-01T09:00:00+00:00",
+   "lat": 14.8,
+   "lon": 88.6,
+   "wind_kmh": 65,
+   "pressure_hpa": 994,
+   "category": "CS",
+   "is_forecast": false,
+   "uncertainty_km": 0.0
+  },
+  {
+   "time": "2026-10-01T21:00:00+00:00",
+   "lat": 15.6,
+   "lon": 88.2,
+   "wind_kmh": 85,
+   "pressure_hpa": 990,
+   "category": "CS",
+   "is_forecast": false,
+   "uncertainty_km": 0.0
+  },
+  {
+   "time": "2026-10-02T09:00:00+00:00",
+   "lat": 16.4,
+   "lon": 87.8,
+   "wind_kmh": 110,
+   "pressure_hpa": 982,
+   "category": "SCS",
+   "is_forecast": false,
+   "uncertainty_km": 0.0
+  },
+  {
+   "time": "2026-10-02T21:00:00+00:00",
+   "lat": 17.2,
+   "lon": 87.3,
+   "wind_kmh": 140,
+   "pressure_hpa": 972,
+   "category": "VSCS",
+   "is_forecast": false,
+   "uncertainty_km": 0.0
+  },
+  {
+   "time": "2026-10-03T09:00:00+00:00",
+   "lat": 17.95,
+   "lon": 86.85,
+   "wind_kmh": 165,
+   "pressure_hpa": 962,
+   "category": "VSCS",
+   "is_forecast": false,
+   "uncertainty_km": 0.0
+  },
+  {
+   "time": "2026-10-03T21:00:00+00:00",
+   "lat": 18.7,
+   "lon": 86.35,
+   "wind_kmh": 180,
+   "pressure_hpa": 956,
+   "category": "ESCS",
+   "is_forecast": true,
+   "uncertainty_km": 30.6
+  },
+  {
+   "time": "2026-10-04T09:00:00+00:00",
+   "lat": 19.4,
+   "lon": 85.95,
+   "wind_kmh": 175,
+   "pressure_hpa": 958,
+   "category": "ESCS",
+   "is_forecast": true,
+   "uncertainty_km": 60.1
+  },
+  {
+   "time": "2026-10-04T15:00:00+00:00",
+   "lat": 19.8,
+   "lon": 85.8,
+   "wind_kmh": 165,
+   "pressure_hpa": 962,
+   "category": "VSCS",
+   "is_forecast": true,
+   "uncertainty_km": 74.4
+  },
+  {
+   "time": "2026-10-04T21:00:00+00:00",
+   "lat": 20.15,
+   "lon": 85.7,
+   "wind_kmh": 120,
+   "pressure_hpa": 978,
+   "category": "VSCS",
+   "is_forecast": true,
+   "uncertainty_km": 88.4
+  },
+  {
+   "time": "2026-10-05T09:00:00+00:00",
+   "lat": 20.75,
+   "lon": 85.6,
+   "wind_kmh": 75,
+   "pressure_hpa": 990,
+   "category": "CS",
+   "is_forecast": true,
+   "uncertainty_km": 115.6
+  },
+  {
+   "time": "2026-10-05T21:00:00+00:00",
+   "lat": 21.4,
+   "lon": 85.65,
+   "wind_kmh": 50,
+   "pressure_hpa": 996,
+   "category": "DD",
+   "is_forecast": true,
+   "uncertainty_km": 141.6
+  },
+  {
+   "time": "2026-10-06T09:00:00+00:00",
+   "lat": 22.0,
+   "lon": 85.9,
+   "wind_kmh": 35,
+   "pressure_hpa": 1000,
+   "category": "D",
+   "is_forecast": true,
+   "uncertainty_km": 166.5
+  }
+ ]
+}

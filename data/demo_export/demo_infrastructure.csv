@@ -1,0 +1,321 @@
+name,asset_type,lat,lon,district,elevation_m,age_years,historical_damage_count,capacity,dist_coast_km,dist_river_km,in_flood_zone
+Water Facility - Jagatsinghpur #01,water_facility,19.96237,86.23837,Jagatsinghpur,1.2,51.0,2.0,,0.38,11.37,False
+School - Jajpur #01,school,21.02435,86.27209,Jajpur,30.5,53.0,1.0,,67.77,0.7,False
+Road Segment - Kendrapara #01,road,20.62891,86.74116,Kendrapara,3.9,19.0,0.0,,9.88,12.04,True
+Mobile Tower - Nayagarh #01,mobile_tower,20.08585,84.69804,Nayagarh,173.6,46.0,0.0,,83.3,54.51,False
+School - Mayurbhanj #01,school,22.04252,86.21948,Mayurbhanj,147.9,38.0,0.0,,108.02,32.76,False
+Road Segment - Gajapati #01,road,19.45843,84.06564,Gajapati,236.8,,0.0,,86.72,40.68,False
+Bridge - Ganjam #01,bridge,19.49106,84.74248,Ganjam,52.4,32.0,0.0,,31.93,0.2,False
+Road Segment - Jagatsinghpur #01,road,20.01817,86.2105,Jagatsinghpur,3.8,14.0,0.0,,7.19,9.24,False
+School - Khordha #01,school,20.30273,85.67257,Khordha,28.8,37.0,0.0,,58.25,19.29,False
+Emergency Shelter - Puri #01,emergency_shelter,19.68365,85.45769,Puri,2.8,10.0,1.0,500 persons,3.14,54.42,True
+Mobile Tower - Khordha #01,mobile_tower,20.28648,85.55219,Khordha,31.2,,0.0,,61.1,21.5,False
+Railway Infrastructure - Cuttack #01,railway,20.32665,85.86372,Cuttack,19.5,40.0,0.0,,54.78,9.3,False
+School - Nayagarh #01,school,20.15014,84.13575,Nayagarh,249.0,33.0,0.0,,128.19,47.68,False
+Road Segment - Jagatsinghpur #02,road,20.09256,86.03472,Jagatsinghpur,8.6,,0.0,,23.76,16.93,False
+Road Segment - Srikakulam #01,road,18.70117,83.66133,Srikakulam,219.8,3.0,1.0,,63.65,134.09,False
+Water Facility - Ganjam #01,water_facility,19.73915,84.24913,Ganjam,228.0,32.0,0.0,,88.82,5.46,False
+School - Cuttack #01,school,20.50751,85.91365,Cuttack,25.4,,1.0,,69.75,4.86,True
+Road Segment - Jajpur #01,road,20.65447,86.21566,Jajpur,23.2,37.0,0.0,,60.56,11.2,False
+Water Facility - Ganjam #02,water_facility,19.53483,84.90498,Ganjam,24.9,19.0,1.0,,22.87,10.85,False
+Power Substation - Puri #01,power_substation,19.94673,86.00154,Puri,5.7,29.0,0.0,220/132 kV,10.17,30.6,False
+Water Facility - Bhadrak #01,water_facility,21.26439,86.42142,Bhadrak,41.8,15.0,0.0,,54.8,29.93,False
+Emergency Shelter - Bhadrak #01,emergency_shelter,21.0707,86.83111,Bhadrak,4.6,29.0,0.0,500 persons,9.61,25.17,False
+Road Segment - Puri #01,road,19.91569,85.72547,Puri,8.2,,3.0,,16.09,53.1,False
+Road Segment - Srikakulam #02,road,18.54291,83.6135,Srikakulam,187.0,37.0,1.0,,53.0,151.42,False
+Emergency Shelter - Kendrapara #01,emergency_shelter,20.49427,86.69304,Kendrapara,4.3,34.0,2.0,1500 persons,7.87,22.05,False
+Water Facility - Ganjam #03,water_facility,20.2867,83.74997,Ganjam,263.4,34.0,1.0,,167.87,82.78,False
+Mobile Tower - Cuttack #01,mobile_tower,20.4481,86.03186,Cuttack,14.1,26.0,0.0,,57.73,1.23,True
+School - Balasore #01,school,21.45351,86.73388,Balasore,22.1,11.0,0.0,,31.05,12.41,False
+Road Segment - Ganjam #01,road,19.32027,84.40488,Ganjam,151.0,5.0,0.0,,48.79,32.68,False
+Power Substation - Nayagarh #01,power_substation,20.51272,83.4917,Nayagarh,273.1,50.0,2.0,132/33 kV,204.55,119.49,False
+Water Facility - Ganjam #04,water_facility,19.82637,84.29461,Ganjam,227.2,27.0,0.0,,91.56,8.51,False
+Hospital - Puri #01,hospital,19.75729,85.41474,Puri,7.6,21.0,0.0,250 beds,12.43,56.72,True
+Mobile Tower - Kendujhar #01,mobile_tower,21.35414,86.12162,Kendujhar,78.1,27.0,0.0,,87.38,24.28,False
+Power Substation - Mayurbhanj #01,power_substation,21.91978,86.812,Mayurbhanj,88.9,36.0,0.0,33/11 kV,57.72,14.78,False
+School - Kendujhar #01,school,22.03245,83.69283,Kendujhar,412.8,7.0,0.0,,320.84,152.42,False
+Road Segment - Srikakulam #03,road,18.70894,83.39901,Srikakulam,242.2,11.0,0.0,,81.48,149.68,False
+Hospital - Kendrapara #01,hospital,20.53027,86.75456,Kendrapara,2.3,28.0,2.0,250 beds,3.51,23.09,False
+Road Segment - Ganjam #02,road,20.04139,84.10967,Ganjam,244.0,38.0,0.0,,121.95,38.01,False
+Emergency Shelter - Khordha #01,emergency_shelter,20.14979,85.52298,Khordha,28.9,,0.0,500 persons,48.28,36.83,False
+Mobile Tower - Cuttack #02,mobile_tower,20.63849,85.97696,Cuttack,26.9,43.0,0.0,,78.46,20.54,False
+Mobile Tower - Srikakulam #01,mobile_tower,18.74948,83.42701,Srikakulam,240.4,38.0,0.0,,83.18,144.32,False
+Mobile Tower - Mayurbhanj #01,mobile_tower,21.63164,86.32049,Mayurbhanj,110.4,18.0,1.0,,77.87,19.55,False
+Road Segment - Srikakulam #04,road,18.92182,83.41086,Srikakulam,246.9,37.0,0.0,,99.22,131.25,False
+Road Segment - Srikakulam #05,road,18.22501,83.55087,Srikakulam,69.2,,0.0,,29.4,184.25,False
+Road Segment - Srikakulam #06,road,18.76603,83.33767,Srikakulam,244.3,,0.0,,90.46,149.12,False
+Hospital - Balasore #01,hospital,22.12185,87.80974,Balasore,75.8,46.0,0.0,500 beds,49.85,72.06,False
+School - Ganjam #01,school,19.7707,84.74134,Ganjam,130.6,47.0,0.0,,53.29,28.37,False
+Bridge - Dhenkanal #01,bridge,20.84749,84.74778,Dhenkanal,187.8,5.0,0.0,,151.84,1.33,False
+Road Segment - Srikakulam #07,road,18.81201,83.48035,Srikakulam,244.3,,0.0,,85.13,135.36,False
+Railway Infrastructure - Nayagarh #01,railway,19.91955,85.29365,Nayagarh,23.7,,1.0,,34.14,65.18,False
+Hospital - Kendujhar #01,hospital,21.48305,84.71004,Kendujhar,278.8,,0.0,100 beds,217.54,51.17,False
+School - Khordha #02,school,20.18251,85.70583,Khordha,18.7,24.0,0.0,,44.46,32.23,False
+School - Dhenkanal #01,school,21.09019,84.49358,Dhenkanal,253.4,,0.0,,188.39,19.1,False
+Power Substation - Kendujhar #01,power_substation,21.77648,85.24014,Kendujhar,201.5,44.0,0.0,33/11 kV,188.51,65.72,False
+Hospital - Cuttack #01,hospital,20.50253,86.0789,Cuttack,20.8,51.0,0.0,100 beds,60.08,8.23,True
+Power Substation - Balasore #01,power_substation,21.65246,86.6859,Balasore,49.8,,1.0,33/11 kV,43.85,6.74,False
+School - Nayagarh #02,school,20.2808,84.85015,Nayagarh,146.3,,1.0,,92.87,39.69,False
+Mobile Tower - Ganjam #01,mobile_tower,19.52423,85.15379,Ganjam,4.7,43.0,0.0,,5.03,19.38,False
+Bridge - Cuttack #01,bridge,20.35376,85.96573,Cuttack,12.0,,0.0,,52.32,0.02,True
+Road Segment - Ganjam #03,road,19.67133,84.05931,Ganjam,240.7,,0.0,,100.72,26.68,False
+Mobile Tower - Kendrapara #01,mobile_tower,20.51032,86.63042,Kendrapara,8.3,6.0,0.0,,14.58,22.28,True
+Emergency Shelter - Kendrapara #02,emergency_shelter,20.72921,86.88971,Kendrapara,2.2,31.0,0.0,2000 persons,2.82,4.73,False
+Power Substation - Balasore #02,power_substation,22.03982,87.35196,Balasore,67.2,33.0,1.0,220/132 kV,48.51,29.92,False
+Power Substation - Jajpur #01,power_substation,21.22635,86.18845,Jajpur,57.6,,0.0,33/11 kV,77.12,16.53,False
+Road Segment - Srikakulam #08,road,18.58658,83.62036,Srikakulam,200.8,2.0,0.0,,56.36,147.02,False
+Water Facility - Srikakulam #01,water_facility,18.29841,84.06296,Srikakulam,6.6,31.0,3.0,,2.29,150.27,False
+Bridge - Ganjam #02,bridge,19.41384,84.91007,Ganjam,9.8,28.0,3.0,,13.26,1.58,False
+Water Facility - Ganjam #05,water_facility,19.58855,85.03234,Ganjam,12.1,15.0,1.0,,17.93,21.09,False
+Emergency Shelter - Bhadrak #02,emergency_shelter,21.08755,86.82466,Bhadrak,4.7,,0.0,1500 persons,9.99,26.76,False
+Bridge - Jajpur #01,bridge,20.85137,85.94713,Jajpur,33.4,,0.0,,94.69,0.06,False
+Railway Infrastructure - Gajapati #01,railway,18.85611,84.49523,Gajapati,15.4,28.0,0.0,,11.49,75.36,False
+Mobile Tower - Ganjam #02,mobile_tower,19.68022,84.52733,Ganjam,180.9,24.0,1.0,,62.73,7.42,False
+Power Substation - Khordha #01,power_substation,20.42349,85.47406,Khordha,46.0,50.0,0.0,220/132 kV,78.29,7.49,False
+Hospital - Bhadrak #01,hospital,20.9419,86.40573,Bhadrak,23.1,10.0,1.0,250 beds,55.48,3.66,True
+Power Substation - Balasore #03,power_substation,21.96601,87.23824,Balasore,56.8,55.0,0.0,33/11 kV,43.98,15.66,False
+Emergency Shelter - Nayagarh #01,emergency_shelter,20.83724,83.51267,Nayagarh,283.3,53.0,0.0,2000 persons,227.36,113.69,False
+Mobile Tower - Ganjam #03,mobile_tower,20.11258,83.70042,Ganjam,262.0,23.0,0.0,,159.42,74.46,False
+Road Segment - Ganjam #04,road,19.77712,84.24679,Ganjam,228.5,25.0,1.0,,91.64,6.33,False
+School - Khordha #03,school,20.08726,85.62498,Khordha,16.1,14.0,0.0,,37.74,43.4,False
+Railway Infrastructure - Khordha #01,railway,20.23257,85.73916,Khordha,21.1,,0.0,,48.72,25.76,False
+Emergency Shelter - Srikakulam #01,emergency_shelter,18.47502,84.08714,Srikakulam,22.8,,1.0,1500 persons,14.38,131.2,False
+Road Segment - Mayurbhanj #01,road,21.89278,85.90009,Mayurbhanj,152.0,47.0,0.0,,128.45,52.6,False
+Emergency Shelter - Balasore #01,emergency_shelter,21.4322,86.90376,Balasore,8.1,44.0,1.0,1500 persons,13.66,8.71,True
+School - Ganjam #02,school,20.18389,83.91344,Ganjam,258.9,33.0,0.0,,147.66,62.89,False
+Road Segment - Kendujhar #01,road,22.1901,83.31192,Kendujhar,430.4,,1.0,,356.88,191.32,False
+Road Segment - Srikakulam #09,road,18.7363,83.58458,Srikakulam,230.7,,0.0,,71.73,135.54,False
+School - Kendujhar #02,school,22.04829,84.05432,Kendujhar,406.3,31.0,0.0,,303.0,134.45,False
+Bridge - Jajpur #02,bridge,20.76401,86.19615,Jajpur,19.9,29.0,0.0,,67.1,0.41,False
+Water Facility - Jajpur #01,water_facility,20.86617,85.83563,Jajpur,39.8,23.0,0.0,,106.0,1.76,False
+Road Segment - Srikakulam #10,road,18.35391,83.50786,Srikakulam,139.1,50.0,0.0,,43.45,175.09,False
+Mobile Tower - Balasore #01,mobile_tower,22.06834,87.13663,Balasore,98.1,41.0,0.0,,58.66,17.63,False
+Water Facility - Dhenkanal #01,water_facility,20.56852,85.57566,Dhenkanal,41.0,44.0,0.0,,89.46,9.92,False
+School - Balasore #02,school,22.07831,87.1633,Balasore,97.1,34.0,0.0,,58.51,20.08,False
+Mobile Tower - Bhadrak #01,mobile_tower,20.86791,86.50677,Bhadrak,14.4,9.0,0.0,,44.67,7.09,True
+Bridge - Balasore #01,bridge,21.60194,86.62833,Balasore,51.8,49.0,0.0,,46.75,1.3,False
+School - Nayagarh #03,school,20.74723,84.27768,Nayagarh,254.9,4.0,0.0,,168.68,40.39,False
+Railway Infrastructure - Cuttack #02,railway,20.32245,85.83625,Cuttack,18.9,18.0,0.0,,55.2,11.55,False
+Emergency Shelter - Srikakulam #02,emergency_shelter,18.26195,83.44354,Srikakulam,120.7,31.0,0.0,2000 persons,39.64,187.39,False
+Hospital - Jajpur #01,hospital,20.99081,86.257,Jajpur,29.8,22.0,0.0,500 beds,69.88,4.74,False
+Water Facility - Balasore #01,water_facility,21.22627,86.94052,Balasore,2.2,12.0,1.0,,2.58,28.36,False
+School - Kendujhar #03,school,21.4052,84.87859,Kendujhar,228.8,,0.0,,202.78,32.34,False
+Road Segment - Srikakulam #11,road,18.64648,83.81107,Srikakulam,165.5,30.0,0.0,,48.6,130.0,False
+Road Segment - Ganjam #05,road,19.44763,84.47624,Ganjam,153.8,23.0,0.0,,50.73,16.79,False
+Road Segment - Srikakulam #12,road,18.6043,83.45925,Srikakulam,227.4,20.0,0.0,,68.44,155.17,False
+Mobile Tower - Balasore #02,mobile_tower,21.79162,87.77331,Balasore,12.2,13.0,1.0,,13.74,43.17,False
+Hospital - Ganjam #01,hospital,19.80475,83.82896,Ganjam,255.2,19.0,0.0,250 beds,128.92,49.65,False
+Bridge - Jajpur #03,bridge,21.00878,86.32536,Jajpur,25.0,,0.0,,62.55,0.11,False
+Emergency Shelter - Kendrapara #03,emergency_shelter,20.48091,86.63819,Kendrapara,5.0,52.0,0.0,1500 persons,12.57,19.29,True
+Mobile Tower - Jajpur #01,mobile_tower,21.08666,86.10832,Jajpur,40.4,24.0,0.0,,84.22,1.02,False
+Mobile Tower - Jagatsinghpur #01,mobile_tower,20.16366,86.02226,Jagatsinghpur,9.0,,0.0,,31.2,11.87,True
+Bridge - Balasore #02,bridge,21.49031,86.96237,Balasore,3.2,48.0,0.0,,10.11,0.48,True
+Bridge - Ganjam #03,bridge,19.69254,84.38701,Ganjam,207.5,50.0,0.0,,74.4,0.05,False
+Power Substation - Kendujhar #02,power_substation,22.14337,85.11414,Kendujhar,238.4,35.0,0.0,33/11 kV,213.77,104.91,False
+Railway Infrastructure - Nayagarh #02,railway,19.95818,85.32736,Nayagarh,27.6,34.0,0.0,,36.56,61.04,False
+Railway Infrastructure - Cuttack #03,railway,20.2906,85.85461,Cuttack,17.2,36.0,0.0,,51.25,12.93,False
+School - Srikakulam #01,school,18.61452,83.77549,Srikakulam,169.1,,0.0,,48.65,135.07,False
+School - Puri #01,school,19.85384,85.5729,Puri,6.8,,2.0,,15.93,68.84,True
+Road Segment - Cuttack #01,road,20.25371,85.88655,Cuttack,16.6,12.0,0.0,,46.33,13.79,False
+Mobile Tower - Bhadrak #02,mobile_tower,21.29606,86.4275,Bhadrak,45.2,37.0,0.0,,55.35,33.42,False
+Emergency Shelter - Ganjam #01,emergency_shelter,19.44721,84.9509,Ganjam,13.3,55.0,1.0,1000 persons,12.69,3.39,False
+Bridge - Jagatsinghpur #01,bridge,20.37631,86.34767,Jagatsinghpur,7.7,,0.0,,31.41,0.99,True
+Mobile Tower - Balasore #03,mobile_tower,22.01829,87.89386,Balasore,43.8,19.0,0.0,,37.47,69.07,False
+Water Facility - Kendrapara #01,water_facility,20.3033,86.59362,Kendrapara,3.5,,0.0,,8.79,1.0,True
+Road Segment - Jagatsinghpur #03,road,20.3006,86.48654,Jagatsinghpur,1.8,,0.0,,15.69,3.87,True
+Emergency Shelter - Jajpur #01,emergency_shelter,20.85664,86.25875,Jajpur,27.7,42.0,0.0,1500 persons,65.77,11.47,False
+Mobile Tower - Cuttack #03,mobile_tower,20.46242,85.88813,Cuttack,20.4,54.0,1.0,,66.84,0.63,False
+School - Bhadrak #01,school,20.93447,86.77269,Bhadrak,7.6,31.0,2.0,,17.95,8.91,True
+Road Segment - Bhadrak #01,road,21.07655,86.41973,Bhadrak,27.0,42.0,1.0,,51.97,10.67,False
+Mobile Tower - Khordha #02,mobile_tower,20.23081,85.52317,Khordha,32.4,38.0,0.0,,56.57,27.85,False
+Road Segment - Puri #02,road,20.03006,85.78357,Puri,9.0,,1.0,,25.86,39.54,False
+Power Substation - Srikakulam #01,power_substation,18.25131,83.52415,Srikakulam,89.6,12.0,0.0,220/132 kV,33.44,183.47,False
+School - Ganjam #03,school,19.0836,84.49837,Ganjam,45.9,,1.0,,25.7,51.92,False
+Emergency Shelter - Ganjam #02,emergency_shelter,19.38385,84.8151,Ganjam,19.9,45.0,0.0,2000 persons,18.22,8.2,False
+Railway Infrastructure - Cuttack #04,railway,20.35068,85.86103,Cuttack,22.2,33.0,0.0,,57.41,7.49,False
+School - Nayagarh #04,school,19.80878,85.10782,Nayagarh,34.9,21.0,0.0,,34.23,46.8,False
+Mobile Tower - Bhadrak #03,mobile_tower,21.00829,86.47111,Bhadrak,23.8,32.0,0.0,,47.61,5.8,False
+Bridge - Jajpur #04,bridge,21.04144,86.26008,Jajpur,32.7,,0.0,,68.8,0.56,False
+Bridge - Bhadrak #01,bridge,20.87532,86.67473,Bhadrak,7.4,46.0,1.0,,29.02,0.35,True
+Bridge - Kendrapara #01,bridge,20.74457,86.82817,Kendrapara,3.1,2.0,0.0,,9.14,0.33,True
+Bridge - Jagatsinghpur #02,bridge,20.40595,86.1963,Jagatsinghpur,10.9,27.0,0.0,,44.02,0.56,True
+Water Facility - Khordha #01,water_facility,20.41412,85.55913,Khordha,36.9,16.0,0.0,,73.89,7.29,False
+Water Facility - Kendrapara #02,water_facility,20.32426,86.63589,Kendrapara,3.0,22.0,0.0,,6.05,2.29,True
+Emergency Shelter - Jagatsinghpur #01,emergency_shelter,20.20703,86.48256,Jagatsinghpur,4.9,24.0,0.0,2000 persons,7.95,14.09,True
+Emergency Shelter - Balasore #02,emergency_shelter,21.29456,86.88597,Balasore,5.8,39.0,0.0,1500 persons,10.41,23.61,False
+Mobile Tower - Bhadrak #04,mobile_tower,21.10254,86.38562,Bhadrak,32.7,,0.0,,55.44,11.94,False
+Mobile Tower - Ganjam #04,mobile_tower,19.02253,84.56046,Ganjam,21.5,36.0,1.0,,16.47,55.64,False
+Road Segment - Kendrapara #02,road,20.60627,86.23772,Kendrapara,21.7,50.0,0.0,,56.39,15.49,True
+Railway Infrastructure - Ganjam #01,railway,19.40094,84.87387,Ganjam,14.6,,2.0,,15.04,4.24,False
+Mobile Tower - Jagatsinghpur #02,mobile_tower,20.08017,86.06458,Jagatsinghpur,7.1,53.0,0.0,,20.97,15.63,False
+Emergency Shelter - Mayurbhanj #01,emergency_shelter,22.18056,86.86567,Mayurbhanj,132.6,9.0,1.0,1000 persons,81.69,12.36,False
+Emergency Shelter - Kendujhar #01,emergency_shelter,21.57797,84.65721,Kendujhar,306.9,21.0,0.0,1500 persons,229.37,62.15,False
+Road Segment - Ganjam #06,road,19.22447,84.39973,Ganjam,128.1,30.0,0.0,,43.15,41.86,False
+School - Balasore #03,school,21.78629,87.96733,Balasore,8.0,20.0,0.0,,11.01,60.47,False
+School - Jagatsinghpur #01,school,20.37708,86.29835,Jagatsinghpur,7.3,,0.0,,34.76,0.12,True
+Road Segment - Srikakulam #13,road,18.36207,83.41179,Srikakulam,179.9,30.0,0.0,,50.45,180.17,False
+Mobile Tower - Srikakulam #02,mobile_tower,18.61942,83.79788,Srikakulam,163.1,6.0,0.0,,47.54,133.27,False
+School - Bhadrak #02,school,21.06416,86.89321,Bhadrak,2.8,5.0,3.0,,3.36,26.36,False
+Hospital - Mayurbhanj #01,hospital,21.90242,86.16291,Mayurbhanj,140.9,38.0,1.0,100 beds,104.43,26.98,False
+Emergency Shelter - Puri #02,emergency_shelter,19.94387,85.91881,Puri,4.4,,0.0,1000 persons,12.47,37.11,False
+Water Facility - Srikakulam #02,water_facility,18.43511,83.41534,Srikakulam,201.4,10.0,0.0,,56.58,173.28,False
+School - Jajpur #02,school,20.83062,86.08826,Jajpur,26.7,,0.0,,80.28,2.8,False
+School - Ganjam #04,school,19.85139,84.66367,Ganjam,165.0,,0.0,,65.34,31.19,False
+Water Facility - Balasore #02,water_facility,21.99984,87.25511,Balasore,64.2,15.0,0.0,,46.9,19.4,False
+Road Segment - Kendrapara #03,road,20.44998,86.38873,Kendrapara,13.2,19.0,0.0,,34.97,9.94,True
+Road Segment - Jagatsinghpur #04,road,20.0752,86.18436,Jagatsinghpur,6.3,,2.0,,14.03,6.88,True
+Hospital - Mayurbhanj #02,hospital,22.19906,86.54073,Mayurbhanj,143.5,50.0,1.0,250 beds,98.42,17.28,False
+Road Segment - Ganjam #07,road,19.72245,84.2561,Ganjam,227.8,32.0,0.0,,87.11,5.52,False
+Emergency Shelter - Bhadrak #03,emergency_shelter,20.84475,86.81473,Bhadrak,2.0,19.0,0.0,500 persons,15.18,0.65,True
+School - Bhadrak #03,school,21.40279,86.48254,Bhadrak,50.4,18.0,0.0,,53.81,27.95,False
+Road Segment - Nayagarh #01,road,20.31348,83.81201,Nayagarh,261.9,9.0,0.0,,165.17,80.72,False
+Emergency Shelter - Balasore #03,emergency_shelter,21.71139,87.53777,Balasore,6.4,43.0,1.0,1000 persons,8.26,19.27,False
+Emergency Shelter - Kendrapara #04,emergency_shelter,20.70907,86.86399,Kendrapara,2.5,45.0,0.0,500 persons,3.88,4.78,True
+Mobile Tower - Balasore #04,mobile_tower,21.51976,86.81088,Balasore,18.3,,0.0,,25.91,2.79,False
+Power Substation - Mayurbhanj #02,power_substation,21.91144,86.65,Mayurbhanj,111.8,24.0,0.0,33/11 kV,65.84,24.88,False
+School - Balasore #04,school,21.62441,86.83096,Balasore,21.0,,0.0,,29.81,8.87,False
+School - Balasore #05,school,22.09999,87.86216,Balasore,66.1,17.0,0.0,,46.85,73.86,False
+Road Segment - Srikakulam #14,road,18.54677,83.53406,Srikakulam,210.2,23.0,0.0,,58.54,155.89,False
+Road Segment - Bhadrak #02,road,21.29042,86.38309,Bhadrak,48.4,47.0,1.0,,59.49,31.03,False
+Road Segment - Mayurbhanj #02,road,21.64006,86.5484,Mayurbhanj,72.2,9.0,1.0,,55.99,3.47,False
+Emergency Shelter - Khordha #02,emergency_shelter,20.02324,85.47606,Khordha,19.7,29.0,0.0,1000 persons,37.21,51.37,False
+Mobile Tower - Balasore #05,mobile_tower,21.91481,87.64853,Balasore,28.3,12.0,1.0,,28.74,44.39,False
+Bridge - Balasore #03,bridge,21.4527,87.04768,Balasore,1.9,54.0,0.0,,0.38,0.85,False
+Mobile Tower - Mayurbhanj #02,mobile_tower,22.10606,86.09704,Mayurbhanj,154.5,20.0,0.0,,122.31,46.18,False
+Bridge - Balasore #04,bridge,21.60796,87.34457,Balasore,3.5,28.0,0.0,,3.2,1.42,True
+Mobile Tower - Mayurbhanj #03,mobile_tower,22.15576,85.74111,Mayurbhanj,168.4,16.0,1.0,,155.98,78.54,False
+Emergency Shelter - Kendrapara #05,emergency_shelter,20.25074,86.57905,Kendrapara,3.4,40.0,2.0,1500 persons,5.26,7.04,True
+Power Substation - Jagatsinghpur #01,power_substation,20.29298,86.07268,Jagatsinghpur,12.1,45.0,0.0,220/132 kV,40.78,2.37,True
+Road Segment - Srikakulam #15,road,18.48649,83.47619,Srikakulam,207.0,,0.0,,57.07,164.9,False
+Road Segment - Ganjam #08,road,20.00715,84.30989,Ganjam,232.2,26.0,0.0,,104.11,28.61,False
+Mobile Tower - Dhenkanal #01,mobile_tower,21.36258,83.84414,Dhenkanal,334.7,,0.0,,250.31,90.73,False
+Emergency Shelter - Kendrapara #06,emergency_shelter,20.55143,86.65454,Kendrapara,7.7,13.0,2.0,2000 persons,14.03,19.53,False
+School - Jajpur #03,school,21.01742,86.17497,Jajpur,38.6,9.0,0.0,,77.88,5.38,False
+Bridge - Jajpur #05,bridge,21.0776,86.136,Jajpur,36.9,,0.0,,81.38,0.82,False
+Mobile Tower - Balasore #06,mobile_tower,21.70837,87.78972,Balasore,4.7,28.0,2.0,,4.36,40.22,False
+Power Substation - Bhadrak #01,power_substation,21.2577,86.27964,Bhadrak,51.3,28.0,1.0,220/132 kV,68.64,23.46,False
+Mobile Tower - Srikakulam #03,mobile_tower,18.58862,83.48843,Srikakulam,223.3,,0.0,,65.16,154.84,False
+Road Segment - Jagatsinghpur #05,road,20.09022,86.36565,Jagatsinghpur,2.4,42.0,0.0,,5.68,8.06,True
+Emergency Shelter - Ganjam #03,emergency_shelter,19.44753,85.02698,Ganjam,6.3,16.0,3.0,2000 persons,6.91,6.2,False
+Hospital - Mayurbhanj #03,hospital,22.1459,85.95853,Mayurbhanj,160.5,46.0,0.0,500 beds,136.47,59.55,False
+Railway Infrastructure - Khordha #02,railway,20.17931,85.63002,Khordha,21.8,19.0,0.0,,46.97,33.15,False
+Power Substation - Kendrapara #01,power_substation,20.60039,86.50582,Kendrapara,9.0,20.0,0.0,132/33 kV,30.4,12.3,True
+Road Segment - Mayurbhanj #03,road,22.00588,86.45612,Mayurbhanj,135.2,,0.0,,87.0,23.61,False
+Road Segment - Kendrapara #04,road,20.74176,86.85753,Kendrapara,3.2,,1.0,,6.39,1.21,True
+Mobile Tower - Ganjam #05,mobile_tower,19.72251,83.99567,Ganjam,246.8,,0.0,,109.42,32.0,False
+Mobile Tower - Kendujhar #02,mobile_tower,21.77174,85.11516,Kendujhar,225.3,45.0,0.0,,200.54,63.59,False
+Road Segment - Kendrapara #05,road,20.57993,86.39197,Kendrapara,14.6,,0.0,,40.45,13.38,True
+Mobile Tower - Jagatsinghpur #03,mobile_tower,20.2758,86.34779,Jagatsinghpur,8.7,32.0,0.0,,22.8,9.88,True
+Bridge - Cuttack #02,bridge,20.40507,86.12167,Cuttack,16.3,19.0,1.0,,48.79,1.31,True
+Mobile Tower - Nayagarh #02,mobile_tower,20.0597,85.09408,Nayagarh,79.3,47.0,0.0,,58.44,53.89,False
+Hospital - Srikakulam #01,hospital,18.42243,84.02182,Srikakulam,24.0,10.0,0.0,30 beds,15.35,139.43,False
+Bridge - Balasore #05,bridge,21.89447,87.11822,Balasore,46.5,20.0,1.0,,41.92,1.06,False
+Emergency Shelter - Balasore #04,emergency_shelter,21.39065,86.93793,Balasore,6.4,,0.0,2000 persons,8.81,11.67,False
+Bridge - Dhenkanal #02,bridge,20.83472,84.74019,Dhenkanal,186.5,30.0,0.0,,150.98,0.26,False
+Road Segment - Bhadrak #03,road,20.99548,86.71066,Bhadrak,8.0,,0.0,,23.26,13.51,False
+School - Kendrapara #01,school,20.44123,86.59124,Kendrapara,5.7,3.0,1.0,,15.37,13.87,True
+Mobile Tower - Ganjam #06,mobile_tower,20.22849,83.85087,Ganjam,260.9,36.0,2.0,,155.8,70.9,False
+Mobile Tower - Jajpur #02,mobile_tower,20.89767,86.32768,Jajpur,25.1,27.0,1.0,,62.14,11.37,False
+Road Segment - Ganjam #09,road,19.62792,85.09901,Ganjam,15.8,53.0,0.0,,17.83,27.63,False
+Power Substation - Mayurbhanj #03,power_substation,21.75496,86.06601,Mayurbhanj,134.5,23.0,0.0,220/132 kV,107.13,34.85,False
+Road Segment - Khordha #01,road,20.06553,85.74841,Khordha,12.9,,0.0,,30.72,39.02,False
+School - Cuttack #02,school,20.39983,86.06783,Cuttack,14.5,21.0,1.0,,51.2,3.15,True
+School - Srikakulam #02,school,18.49554,83.3406,Srikakulam,223.6,9.0,0.0,,66.73,172.32,False
+Water Facility - Ganjam #06,water_facility,19.79654,84.33141,Ganjam,223.0,,0.0,,86.49,6.13,False
+Road Segment - Srikakulam #16,road,18.4282,83.34121,Srikakulam,215.8,,0.0,,60.82,178.41,False
+School - Ganjam #05,school,19.23681,84.76351,Ganjam,12.5,51.0,1.0,,12.63,25.38,False
+School - Balasore #06,school,21.94537,87.93332,Balasore,28.7,25.0,0.0,,28.97,66.61,False
+Water Facility - Khordha #02,water_facility,20.37326,85.70055,Khordha,29.0,7.0,0.0,,64.85,11.36,False
+Mobile Tower - Ganjam #07,mobile_tower,19.57333,84.12223,Ganjam,235.9,16.0,1.0,,89.12,27.07,False
+School - Kendrapara #02,school,20.46577,86.40023,Kendrapara,13.6,10.0,0.0,,34.77,11.93,True
+Power Substation - Jagatsinghpur #02,power_substation,20.25666,86.1139,Jagatsinghpur,9.3,8.0,0.0,220/132 kV,35.1,2.21,True
+Bridge - Cuttack #03,bridge,20.30729,86.02673,Cuttack,11.3,16.0,0.0,,44.62,0.38,True
+Road Segment - Srikakulam #17,road,18.47882,83.91214,Srikakulam,60.7,25.0,0.0,,27.89,139.46,False
+Road Segment - Srikakulam #18,road,18.59274,84.20892,Srikakulam,18.4,51.0,0.0,,14.06,114.09,False
+Road Segment - Srikakulam #19,road,18.50633,83.77132,Srikakulam,121.3,12.0,1.0,,39.49,145.19,False
+Bridge - Ganjam #04,bridge,19.73956,84.32691,Ganjam,220.0,7.0,1.0,,82.56,0.68,False
+Emergency Shelter - Balasore #05,emergency_shelter,21.25336,86.95493,Balasore,2.4,15.0,0.0,1000 persons,2.16,25.0,False
+Road Segment - Puri #03,road,19.87725,85.55344,Puri,9.4,30.0,1.0,,19.11,66.98,True
+Hospital - Srikakulam #02,hospital,18.88454,83.36117,Srikakulam,251.1,39.0,1.0,30 beds,99.22,137.9,False
+Power Substation - Ganjam #01,power_substation,19.47851,84.66125,Ganjam,81.3,,0.0,33/11 kV,37.17,4.81,False
+Emergency Shelter - Puri #03,emergency_shelter,19.92364,85.75168,Puri,6.7,18.0,0.0,500 persons,15.85,50.62,False
+Road Segment - Gajapati #02,road,19.51262,83.88713,Gajapati,244.7,30.0,0.0,,105.5,50.69,False
+Hospital - Srikakulam #03,hospital,18.53179,83.48824,Srikakulam,213.2,17.0,0.0,250 beds,60.23,160.03,False
+Water Facility - Kendrapara #03,water_facility,20.33072,86.62146,Kendrapara,3.2,33.0,0.0,,7.71,2.64,True
+Emergency Shelter - Bhadrak #04,emergency_shelter,21.09027,86.87897,Bhadrak,2.9,,0.0,1000 persons,4.37,28.7,False
+Road Segment - Balasore #01,road,21.71105,87.21744,Balasore,11.9,28.0,2.0,,19.11,4.08,False
+Emergency Shelter - Puri #04,emergency_shelter,19.82992,85.7476,Puri,3.5,21.0,1.0,1000 persons,6.4,58.71,False
+School - Khordha #04,school,20.09156,85.55419,Khordha,22.9,,1.0,,41.05,43.16,False
+Road Segment - Kendujhar #02,road,22.01674,84.00636,Kendujhar,404.0,,0.0,,302.33,133.47,False
+Road Segment - Balasore #02,road,21.75852,87.78228,Balasore,8.4,3.0,2.0,,9.98,41.99,False
+Road Segment - Ganjam #10,road,19.86025,84.45364,Ganjam,210.8,42.0,1.0,,82.02,19.29,False
+School - Jajpur #04,school,20.788,85.99057,Jajpur,32.4,38.0,1.0,,87.83,5.08,False
+Power Substation - Kendrapara #02,power_substation,20.53334,86.26733,Kendrapara,18.3,9.0,0.0,220/132 kV,50.17,16.05,True
+Road Segment - Srikakulam #20,road,18.82592,83.37148,Srikakulam,244.1,35.0,0.0,,93.45,141.8,False
+Emergency Shelter - Dhenkanal #01,emergency_shelter,20.9307,85.05532,Dhenkanal,127.2,33.0,0.0,2000 persons,147.13,28.59,False
+Mobile Tower - Balasore #07,mobile_tower,21.63864,87.46631,Balasore,3.1,,0.0,,2.37,8.43,True
+Hospital - Kendujhar #02,hospital,21.43326,84.65312,Kendujhar,284.9,7.0,0.0,500 beds,214.76,53.03,False
+Emergency Shelter - Jagatsinghpur #02,emergency_shelter,20.17911,86.31314,Jagatsinghpur,3.9,33.0,1.0,1500 persons,16.84,10.83,True
+Emergency Shelter - Jajpur #02,emergency_shelter,20.84172,86.39439,Jajpur,19.7,14.0,0.0,1000 persons,52.97,14.37,True
+School - Mayurbhanj #02,school,22.04086,85.8263,Mayurbhanj,161.7,53.0,0.0,,142.21,64.91,False
+Road Segment - Srikakulam #21,road,18.67632,83.52057,Srikakulam,228.4,28.0,0.0,,70.69,144.89,False
+Bridge - Balasore #06,bridge,21.46298,87.03001,Balasore,2.5,52.0,1.0,,2.52,0.51,True
+Mobile Tower - Jagatsinghpur #04,mobile_tower,19.97381,86.08944,Jagatsinghpur,4.5,13.0,0.0,,9.5,21.84,False
+Power Substation - Cuttack #01,power_substation,20.57361,86.17628,Cuttack,18.6,,2.0,33/11 kV,59.67,18.24,True
+Hospital - Bhadrak #02,hospital,21.28938,86.50682,Bhadrak,36.9,,0.0,250 beds,47.34,35.98,False
+Power Substation - Jagatsinghpur #03,power_substation,20.09892,86.10483,Jagatsinghpur,8.8,22.0,1.0,132/33 kV,20.58,11.13,True
+School - Jajpur #05,school,20.93074,86.19693,Jajpur,34.8,17.0,0.0,,75.57,13.34,False
+Road Segment - Puri #04,road,19.87195,85.81211,Puri,5.0,29.0,1.0,,8.19,50.73,False
+Road Segment - Ganjam #11,road,19.8425,84.49904,Ganjam,203.1,48.0,0.0,,77.21,20.43,False
+Emergency Shelter - Puri #05,emergency_shelter,19.80554,85.76085,Puri,2.2,20.0,0.0,500 persons,3.37,59.71,False
+Mobile Tower - Balasore #08,mobile_tower,22.08432,87.60502,Balasore,65.5,,0.0,,47.96,53.16,False
+Emergency Shelter - Jagatsinghpur #03,emergency_shelter,20.01414,86.16709,Jagatsinghpur,2.2,26.0,1.0,500 persons,9.15,12.85,False
+Hospital - Puri #02,hospital,19.89958,85.52052,Puri,11.8,45.0,0.0,30 beds,22.74,64.61,True
+Water Facility - Khordha #03,water_facility,20.2166,85.45087,Khordha,37.2,46.0,2.0,,58.04,30.59,False
+School - Srikakulam #03,school,18.69267,83.74011,Srikakulam,205.0,20.0,0.0,,57.55,130.09,False
+School - Ganjam #06,school,19.99247,84.30767,Ganjam,232.4,27.0,0.0,,103.16,26.97,False
+Emergency Shelter - Bhadrak #05,emergency_shelter,20.78871,86.88769,Bhadrak,2.5,41.0,4.0,1500 persons,6.55,3.09,True
+Emergency Shelter - Kendrapara #07,emergency_shelter,20.77888,86.4961,Kendrapara,13.7,8.0,0.0,1000 persons,40.32,7.53,True
+Mobile Tower - Cuttack #04,mobile_tower,20.33536,85.94289,Cuttack,17.5,49.0,0.0,,51.81,3.09,True
+Hospital - Kendrapara #02,hospital,20.58662,86.53307,Kendrapara,9.0,27.0,0.0,500 beds,27.2,14.15,True
+Power Substation - Kendrapara #03,power_substation,20.71179,86.74178,Kendrapara,7.1,44.0,1.0,33/11 kV,14.76,2.89,True
+School - Balasore #07,school,22.14441,87.14049,Balasore,113.7,54.0,1.0,,66.17,24.86,False
+Emergency Shelter - Kendrapara #08,emergency_shelter,20.45313,86.64277,Kendrapara,2.6,45.0,1.0,1500 persons,10.93,16.39,True
+School - Nayagarh #05,school,19.88994,85.09617,Nayagarh,54.6,,0.0,,42.47,54.83,False
+Railway Infrastructure - Ganjam #02,railway,19.09731,84.68498,Ganjam,12.6,21.0,1.0,,10.51,42.87,False
+Water Facility - Balasore #03,water_facility,21.47922,86.95338,Balasore,4.6,12.0,1.0,,10.51,1.98,True
+Hospital - Ganjam #02,hospital,20.37072,83.63844,Ganjam,266.8,21.0,1.0,250 beds,182.69,97.57,False
+Power Substation - Ganjam #02,power_substation,19.27774,84.70038,Ganjam,26.4,6.0,1.0,33/11 kV,20.66,23.76,False
+Emergency Shelter - Jagatsinghpur #04,emergency_shelter,20.18784,86.50999,Jagatsinghpur,3.5,6.0,2.0,1500 persons,4.48,15.5,True
+Emergency Shelter - Ganjam #04,emergency_shelter,19.50623,84.55452,Ganjam,134.6,16.0,0.0,1000 persons,47.74,6.73,False
+Road Segment - Bhadrak #04,road,20.9794,86.38733,Bhadrak,20.4,38.0,0.0,,56.71,0.58,False
+Railway Infrastructure - Bhadrak #01,railway,21.03419,86.34215,Bhadrak,27.3,54.0,1.0,,60.42,3.17,False
+Hospital - Cuttack #02,hospital,20.60703,86.09759,Cuttack,25.3,28.0,0.0,100 beds,67.75,19.99,False
+Road Segment - Puri #05,road,19.62417,85.35517,Puri,2.7,,2.0,,2.96,41.94,True
+Road Segment - Jajpur #02,road,20.77748,86.16603,Jajpur,19.4,51.0,0.0,,70.56,0.05,False
+Bridge - Ganjam #05,bridge,19.44276,84.83512,Ganjam,20.5,14.0,1.0,,21.18,1.35,False
+School - Jagatsinghpur #02,school,20.17834,86.48872,Jagatsinghpur,3.7,36.0,1.0,,5.08,17.04,True
+Mobile Tower - Ganjam #08,mobile_tower,19.24972,84.43697,Ganjam,115.2,,0.0,,41.55,37.52,False
+Water Facility - Cuttack #01,water_facility,20.41949,85.90944,Cuttack,17.5,19.0,0.0,,61.61,1.58,True
+Railway Infrastructure - Bhadrak #02,railway,21.21574,86.65191,Bhadrak,13.3,30.0,0.0,,30.47,34.39,False
+Road Segment - Jagatsinghpur #06,road,19.95962,86.21177,Jagatsinghpur,1.5,51.0,0.0,,1.55,13.6,False
+Hospital - Kendrapara #03,hospital,20.37773,86.50091,Kendrapara,9.2,2.0,0.0,30 beds,21.32,4.83,True
+Power Substation - Khordha #02,power_substation,20.24441,85.46588,Khordha,34.7,,1.0,33/11 kV,60.28,27.28,False
+Road Segment - Ganjam #12,road,19.24016,84.50514,Ganjam,80.0,22.0,1.0,,35.08,35.61,False
+Railway Infrastructure - Khordha #03,railway,20.22148,85.7025,Khordha,23.6,32.0,0.0,,48.7,28.22,False
+Road Segment - Jajpur #03,road,21.05394,86.07369,Jajpur,44.4,,0.0,,87.97,5.8,False
+Emergency Shelter - Puri #06,emergency_shelter,19.9018,85.98995,Puri,2.4,5.0,1.0,1000 persons,5.77,34.91,False
+Mobile Tower - Kendujhar #03,mobile_tower,21.67445,85.92253,Kendujhar,134.9,27.0,0.0,,118.27,43.52,False
+Road Segment - Puri #06,road,19.75808,85.49661,Puri,3.0,53.0,1.0,,9.2,62.86,True
+Water Facility - Ganjam #07,water_facility,19.83851,83.91982,Ganjam,251.3,32.0,0.0,,123.25,40.96,False
+Mobile Tower - Bhadrak #05,mobile_tower,20.81849,86.91838,Bhadrak,2.6,45.0,2.0,,4.99,1.01,False
+Emergency Shelter - Kendrapara #09,emergency_shelter,20.37835,86.70022,Kendrapara,1.6,,0.0,2000 persons,2.19,10.16,False
+Road Segment - Bhadrak #05,road,20.94922,86.63451,Bhadrak,10.3,27.0,0.0,,31.87,6.28,True
+School - Srikakulam #04,school,18.71241,83.55507,Srikakulam,233.4,6.0,0.0,,71.58,139.5,False
+Hospital - Ganjam #03,hospital,19.39715,85.02009,Ganjam,4.0,39.0,0.0,100 beds,3.59,0.7,False
+Bridge - Balasore #07,bridge,21.50178,86.95703,Balasore,3.2,27.0,1.0,,11.21,0.47,True
+Road Segment - Puri #07,road,20.01016,85.74445,Puri,10.7,44.0,0.0,,25.02,43.91,False
+School - Puri #02,school,19.95593,85.60624,Puri,10.6,54.0,0.0,,25.04,58.01,False
+Hospital - Srikakulam #04,hospital,18.28413,83.97549,Srikakulam,11.2,35.0,1.0,30 beds,6.76,155.44,False
+School - Puri #03,school,19.86059,85.60135,Puri,7.2,,1.0,,15.47,66.3,False
+Mobile Tower - Jagatsinghpur #05,mobile_tower,20.16909,85.94932,Jagatsinghpur,11.9,45.0,0.0,,35.39,16.48,True

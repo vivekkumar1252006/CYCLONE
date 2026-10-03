@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [85.83, 20.46]},
+     "properties": {"name": "SAMPLE Cuttack Railway Station", "asset_type": "railway", "age_years": 60}},
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[85.78, 19.83], [85.95, 19.86], [86.08, 19.89]]},
+     "properties": {"name": "SAMPLE Puri-Konark Marine Drive", "asset_type": "road", "historical_damage_count": 2}},
+    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[86.42, 20.50], [86.44, 20.50], [86.44, 20.52], [86.42, 20.52], [86.42, 20.50]]]},
+     "properties": {"name": "SAMPLE Kendrapara District Hospital", "asset_type": "hospital", "criticality": 1.0, "capacity": "250 beds"}},
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [87.5, 19.0]},
+     "properties": {"name": "SAMPLE Invalid - in the sea", "asset_type": "school"}}
+  ]
+}

@@ -1,0 +1,7045 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.23837,
+     19.96237
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Jagatsinghpur #01",
+    "asset_type": "water_facility",
+    "district": "Jagatsinghpur",
+    "elevation_m": 1.2,
+    "age_years": 51.0,
+    "historical_damage_count": 2.0,
+    "capacity": null,
+    "dist_coast_km": 0.38,
+    "dist_river_km": 11.37,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.27209,
+     21.02435
+    ]
+   },
+   "properties": {
+    "name": "School - Jajpur #01",
+    "asset_type": "school",
+    "district": "Jajpur",
+    "elevation_m": 30.5,
+    "age_years": 53.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 67.77,
+    "dist_river_km": 0.7,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.74116,
+     20.62891
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Kendrapara #01",
+    "asset_type": "road",
+    "district": "Kendrapara",
+    "elevation_m": 3.9,
+    "age_years": 19.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 9.88,
+    "dist_river_km": 12.04,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.69804,
+     20.08585
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Nayagarh #01",
+    "asset_type": "mobile_tower",
+    "district": "Nayagarh",
+    "elevation_m": 173.6,
+    "age_years": 46.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 83.3,
+    "dist_river_km": 54.51,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.21948,
+     22.04252
+    ]
+   },
+   "properties": {
+    "name": "School - Mayurbhanj #01",
+    "asset_type": "school",
+    "district": "Mayurbhanj",
+    "elevation_m": 147.9,
+    "age_years": 38.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 108.02,
+    "dist_river_km": 32.76,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.06564,
+     19.45843
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Gajapati #01",
+    "asset_type": "road",
+    "district": "Gajapati",
+    "elevation_m": 236.8,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 86.72,
+    "dist_river_km": 40.68,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.74248,
+     19.49106
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Ganjam #01",
+    "asset_type": "bridge",
+    "district": "Ganjam",
+    "elevation_m": 52.4,
+    "age_years": 32.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 31.93,
+    "dist_river_km": 0.2,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.2105,
+     20.01817
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Jagatsinghpur #01",
+    "asset_type": "road",
+    "district": "Jagatsinghpur",
+    "elevation_m": 3.8,
+    "age_years": 14.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 7.19,
+    "dist_river_km": 9.24,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.67257,
+     20.30273
+    ]
+   },
+   "properties": {
+    "name": "School - Khordha #01",
+    "asset_type": "school",
+    "district": "Khordha",
+    "elevation_m": 28.8,
+    "age_years": 37.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 58.25,
+    "dist_river_km": 19.29,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.45769,
+     19.68365
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Puri #01",
+    "asset_type": "emergency_shelter",
+    "district": "Puri",
+    "elevation_m": 2.8,
+    "age_years": 10.0,
+    "historical_damage_count": 1.0,
+    "capacity": "500 persons",
+    "dist_coast_km": 3.14,
+    "dist_river_km": 54.42,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.55219,
+     20.28648
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Khordha #01",
+    "asset_type": "mobile_tower",
+    "district": "Khordha",
+    "elevation_m": 31.2,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 61.1,
+    "dist_river_km": 21.5,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.86372,
+     20.32665
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Cuttack #01",
+    "asset_type": "railway",
+    "district": "Cuttack",
+    "elevation_m": 19.5,
+    "age_years": 40.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 54.78,
+    "dist_river_km": 9.3,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.13575,
+     20.15014
+    ]
+   },
+   "properties": {
+    "name": "School - Nayagarh #01",
+    "asset_type": "school",
+    "district": "Nayagarh",
+    "elevation_m": 249.0,
+    "age_years": 33.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 128.19,
+    "dist_river_km": 47.68,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.03472,
+     20.09256
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Jagatsinghpur #02",
+    "asset_type": "road",
+    "district": "Jagatsinghpur",
+    "elevation_m": 8.6,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 23.76,
+    "dist_river_km": 16.93,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.66133,
+     18.70117
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #01",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 219.8,
+    "age_years": 3.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 63.65,
+    "dist_river_km": 134.09,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.24913,
+     19.73915
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Ganjam #01",
+    "asset_type": "water_facility",
+    "district": "Ganjam",
+    "elevation_m": 228.0,
+    "age_years": 32.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 88.82,
+    "dist_river_km": 5.46,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.91365,
+     20.50751
+    ]
+   },
+   "properties": {
+    "name": "School - Cuttack #01",
+    "asset_type": "school",
+    "district": "Cuttack",
+    "elevation_m": 25.4,
+    "age_years": null,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 69.75,
+    "dist_river_km": 4.86,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.21566,
+     20.65447
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Jajpur #01",
+    "asset_type": "road",
+    "district": "Jajpur",
+    "elevation_m": 23.2,
+    "age_years": 37.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 60.56,
+    "dist_river_km": 11.2,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.90498,
+     19.53483
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Ganjam #02",
+    "asset_type": "water_facility",
+    "district": "Ganjam",
+    "elevation_m": 24.9,
+    "age_years": 19.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 22.87,
+    "dist_river_km": 10.85,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.00154,
+     19.94673
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Puri #01",
+    "asset_type": "power_substation",
+    "district": "Puri",
+    "elevation_m": 5.7,
+    "age_years": 29.0,
+    "historical_damage_count": 0.0,
+    "capacity": "220/132 kV",
+    "dist_coast_km": 10.17,
+    "dist_river_km": 30.6,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.42142,
+     21.26439
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Bhadrak #01",
+    "asset_type": "water_facility",
+    "district": "Bhadrak",
+    "elevation_m": 41.8,
+    "age_years": 15.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 54.8,
+    "dist_river_km": 29.93,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.83111,
+     21.0707
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Bhadrak #01",
+    "asset_type": "emergency_shelter",
+    "district": "Bhadrak",
+    "elevation_m": 4.6,
+    "age_years": 29.0,
+    "historical_damage_count": 0.0,
+    "capacity": "500 persons",
+    "dist_coast_km": 9.61,
+    "dist_river_km": 25.17,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.72547,
+     19.91569
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Puri #01",
+    "asset_type": "road",
+    "district": "Puri",
+    "elevation_m": 8.2,
+    "age_years": null,
+    "historical_damage_count": 3.0,
+    "capacity": null,
+    "dist_coast_km": 16.09,
+    "dist_river_km": 53.1,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.6135,
+     18.54291
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #02",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 187.0,
+    "age_years": 37.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 53.0,
+    "dist_river_km": 151.42,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.69304,
+     20.49427
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Kendrapara #01",
+    "asset_type": "emergency_shelter",
+    "district": "Kendrapara",
+    "elevation_m": 4.3,
+    "age_years": 34.0,
+    "historical_damage_count": 2.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 7.87,
+    "dist_river_km": 22.05,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.74997,
+     20.2867
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Ganjam #03",
+    "asset_type": "water_facility",
+    "district": "Ganjam",
+    "elevation_m": 263.4,
+    "age_years": 34.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 167.87,
+    "dist_river_km": 82.78,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.03186,
+     20.4481
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Cuttack #01",
+    "asset_type": "mobile_tower",
+    "district": "Cuttack",
+    "elevation_m": 14.1,
+    "age_years": 26.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 57.73,
+    "dist_river_km": 1.23,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.73388,
+     21.45351
+    ]
+   },
+   "properties": {
+    "name": "School - Balasore #01",
+    "asset_type": "school",
+    "district": "Balasore",
+    "elevation_m": 22.1,
+    "age_years": 11.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 31.05,
+    "dist_river_km": 12.41,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.40488,
+     19.32027
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Ganjam #01",
+    "asset_type": "road",
+    "district": "Ganjam",
+    "elevation_m": 151.0,
+    "age_years": 5.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 48.79,
+    "dist_river_km": 32.68,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.4917,
+     20.51272
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Nayagarh #01",
+    "asset_type": "power_substation",
+    "district": "Nayagarh",
+    "elevation_m": 273.1,
+    "age_years": 50.0,
+    "historical_damage_count": 2.0,
+    "capacity": "132/33 kV",
+    "dist_coast_km": 204.55,
+    "dist_river_km": 119.49,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.29461,
+     19.82637
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Ganjam #04",
+    "asset_type": "water_facility",
+    "district": "Ganjam",
+    "elevation_m": 227.2,
+    "age_years": 27.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 91.56,
+    "dist_river_km": 8.51,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.41474,
+     19.75729
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Puri #01",
+    "asset_type": "hospital",
+    "district": "Puri",
+    "elevation_m": 7.6,
+    "age_years": 21.0,
+    "historical_damage_count": 0.0,
+    "capacity": "250 beds",
+    "dist_coast_km": 12.43,
+    "dist_river_km": 56.72,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.12162,
+     21.35414
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Kendujhar #01",
+    "asset_type": "mobile_tower",
+    "district": "Kendujhar",
+    "elevation_m": 78.1,
+    "age_years": 27.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 87.38,
+    "dist_river_km": 24.28,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.812,
+     21.91978
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Mayurbhanj #01",
+    "asset_type": "power_substation",
+    "district": "Mayurbhanj",
+    "elevation_m": 88.9,
+    "age_years": 36.0,
+    "historical_damage_count": 0.0,
+    "capacity": "33/11 kV",
+    "dist_coast_km": 57.72,
+    "dist_river_km": 14.78,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.69283,
+     22.03245
+    ]
+   },
+   "properties": {
+    "name": "School - Kendujhar #01",
+    "asset_type": "school",
+    "district": "Kendujhar",
+    "elevation_m": 412.8,
+    "age_years": 7.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 320.84,
+    "dist_river_km": 152.42,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.39901,
+     18.70894
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #03",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 242.2,
+    "age_years": 11.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 81.48,
+    "dist_river_km": 149.68,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.75456,
+     20.53027
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Kendrapara #01",
+    "asset_type": "hospital",
+    "district": "Kendrapara",
+    "elevation_m": 2.3,
+    "age_years": 28.0,
+    "historical_damage_count": 2.0,
+    "capacity": "250 beds",
+    "dist_coast_km": 3.51,
+    "dist_river_km": 23.09,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.10967,
+     20.04139
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Ganjam #02",
+    "asset_type": "road",
+    "district": "Ganjam",
+    "elevation_m": 244.0,
+    "age_years": 38.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 121.95,
+    "dist_river_km": 38.01,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.52298,
+     20.14979
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Khordha #01",
+    "asset_type": "emergency_shelter",
+    "district": "Khordha",
+    "elevation_m": 28.9,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": "500 persons",
+    "dist_coast_km": 48.28,
+    "dist_river_km": 36.83,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.97696,
+     20.63849
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Cuttack #02",
+    "asset_type": "mobile_tower",
+    "district": "Cuttack",
+    "elevation_m": 26.9,
+    "age_years": 43.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 78.46,
+    "dist_river_km": 20.54,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.42701,
+     18.74948
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Srikakulam #01",
+    "asset_type": "mobile_tower",
+    "district": "Srikakulam",
+    "elevation_m": 240.4,
+    "age_years": 38.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 83.18,
+    "dist_river_km": 144.32,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.32049,
+     21.63164
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Mayurbhanj #01",
+    "asset_type": "mobile_tower",
+    "district": "Mayurbhanj",
+    "elevation_m": 110.4,
+    "age_years": 18.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 77.87,
+    "dist_river_km": 19.55,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.41086,
+     18.92182
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #04",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 246.9,
+    "age_years": 37.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 99.22,
+    "dist_river_km": 131.25,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.55087,
+     18.22501
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #05",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 69.2,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 29.4,
+    "dist_river_km": 184.25,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.33767,
+     18.76603
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #06",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 244.3,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 90.46,
+    "dist_river_km": 149.12,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.80974,
+     22.12185
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Balasore #01",
+    "asset_type": "hospital",
+    "district": "Balasore",
+    "elevation_m": 75.8,
+    "age_years": 46.0,
+    "historical_damage_count": 0.0,
+    "capacity": "500 beds",
+    "dist_coast_km": 49.85,
+    "dist_river_km": 72.06,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.74134,
+     19.7707
+    ]
+   },
+   "properties": {
+    "name": "School - Ganjam #01",
+    "asset_type": "school",
+    "district": "Ganjam",
+    "elevation_m": 130.6,
+    "age_years": 47.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 53.29,
+    "dist_river_km": 28.37,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.74778,
+     20.84749
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Dhenkanal #01",
+    "asset_type": "bridge",
+    "district": "Dhenkanal",
+    "elevation_m": 187.8,
+    "age_years": 5.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 151.84,
+    "dist_river_km": 1.33,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.48035,
+     18.81201
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #07",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 244.3,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 85.13,
+    "dist_river_km": 135.36,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.29365,
+     19.91955
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Nayagarh #01",
+    "asset_type": "railway",
+    "district": "Nayagarh",
+    "elevation_m": 23.7,
+    "age_years": null,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 34.14,
+    "dist_river_km": 65.18,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.71004,
+     21.48305
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Kendujhar #01",
+    "asset_type": "hospital",
+    "district": "Kendujhar",
+    "elevation_m": 278.8,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": "100 beds",
+    "dist_coast_km": 217.54,
+    "dist_river_km": 51.17,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.70583,
+     20.18251
+    ]
+   },
+   "properties": {
+    "name": "School - Khordha #02",
+    "asset_type": "school",
+    "district": "Khordha",
+    "elevation_m": 18.7,
+    "age_years": 24.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 44.46,
+    "dist_river_km": 32.23,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.49358,
+     21.09019
+    ]
+   },
+   "properties": {
+    "name": "School - Dhenkanal #01",
+    "asset_type": "school",
+    "district": "Dhenkanal",
+    "elevation_m": 253.4,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 188.39,
+    "dist_river_km": 19.1,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.24014,
+     21.77648
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Kendujhar #01",
+    "asset_type": "power_substation",
+    "district": "Kendujhar",
+    "elevation_m": 201.5,
+    "age_years": 44.0,
+    "historical_damage_count": 0.0,
+    "capacity": "33/11 kV",
+    "dist_coast_km": 188.51,
+    "dist_river_km": 65.72,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.0789,
+     20.50253
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Cuttack #01",
+    "asset_type": "hospital",
+    "district": "Cuttack",
+    "elevation_m": 20.8,
+    "age_years": 51.0,
+    "historical_damage_count": 0.0,
+    "capacity": "100 beds",
+    "dist_coast_km": 60.08,
+    "dist_river_km": 8.23,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.6859,
+     21.65246
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Balasore #01",
+    "asset_type": "power_substation",
+    "district": "Balasore",
+    "elevation_m": 49.8,
+    "age_years": null,
+    "historical_damage_count": 1.0,
+    "capacity": "33/11 kV",
+    "dist_coast_km": 43.85,
+    "dist_river_km": 6.74,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.85015,
+     20.2808
+    ]
+   },
+   "properties": {
+    "name": "School - Nayagarh #02",
+    "asset_type": "school",
+    "district": "Nayagarh",
+    "elevation_m": 146.3,
+    "age_years": null,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 92.87,
+    "dist_river_km": 39.69,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.15379,
+     19.52423
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Ganjam #01",
+    "asset_type": "mobile_tower",
+    "district": "Ganjam",
+    "elevation_m": 4.7,
+    "age_years": 43.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 5.03,
+    "dist_river_km": 19.38,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.96573,
+     20.35376
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Cuttack #01",
+    "asset_type": "bridge",
+    "district": "Cuttack",
+    "elevation_m": 12.0,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 52.32,
+    "dist_river_km": 0.02,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.05931,
+     19.67133
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Ganjam #03",
+    "asset_type": "road",
+    "district": "Ganjam",
+    "elevation_m": 240.7,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 100.72,
+    "dist_river_km": 26.68,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.63042,
+     20.51032
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Kendrapara #01",
+    "asset_type": "mobile_tower",
+    "district": "Kendrapara",
+    "elevation_m": 8.3,
+    "age_years": 6.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 14.58,
+    "dist_river_km": 22.28,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.88971,
+     20.72921
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Kendrapara #02",
+    "asset_type": "emergency_shelter",
+    "district": "Kendrapara",
+    "elevation_m": 2.2,
+    "age_years": 31.0,
+    "historical_damage_count": 0.0,
+    "capacity": "2000 persons",
+    "dist_coast_km": 2.82,
+    "dist_river_km": 4.73,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.35196,
+     22.03982
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Balasore #02",
+    "asset_type": "power_substation",
+    "district": "Balasore",
+    "elevation_m": 67.2,
+    "age_years": 33.0,
+    "historical_damage_count": 1.0,
+    "capacity": "220/132 kV",
+    "dist_coast_km": 48.51,
+    "dist_river_km": 29.92,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.18845,
+     21.22635
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Jajpur #01",
+    "asset_type": "power_substation",
+    "district": "Jajpur",
+    "elevation_m": 57.6,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": "33/11 kV",
+    "dist_coast_km": 77.12,
+    "dist_river_km": 16.53,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.62036,
+     18.58658
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #08",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 200.8,
+    "age_years": 2.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 56.36,
+    "dist_river_km": 147.02,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.06296,
+     18.29841
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Srikakulam #01",
+    "asset_type": "water_facility",
+    "district": "Srikakulam",
+    "elevation_m": 6.6,
+    "age_years": 31.0,
+    "historical_damage_count": 3.0,
+    "capacity": null,
+    "dist_coast_km": 2.29,
+    "dist_river_km": 150.27,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.91007,
+     19.41384
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Ganjam #02",
+    "asset_type": "bridge",
+    "district": "Ganjam",
+    "elevation_m": 9.8,
+    "age_years": 28.0,
+    "historical_damage_count": 3.0,
+    "capacity": null,
+    "dist_coast_km": 13.26,
+    "dist_river_km": 1.58,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.03234,
+     19.58855
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Ganjam #05",
+    "asset_type": "water_facility",
+    "district": "Ganjam",
+    "elevation_m": 12.1,
+    "age_years": 15.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 17.93,
+    "dist_river_km": 21.09,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.82466,
+     21.08755
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Bhadrak #02",
+    "asset_type": "emergency_shelter",
+    "district": "Bhadrak",
+    "elevation_m": 4.7,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 9.99,
+    "dist_river_km": 26.76,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.94713,
+     20.85137
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Jajpur #01",
+    "asset_type": "bridge",
+    "district": "Jajpur",
+    "elevation_m": 33.4,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 94.69,
+    "dist_river_km": 0.06,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.49523,
+     18.85611
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Gajapati #01",
+    "asset_type": "railway",
+    "district": "Gajapati",
+    "elevation_m": 15.4,
+    "age_years": 28.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 11.49,
+    "dist_river_km": 75.36,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.52733,
+     19.68022
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Ganjam #02",
+    "asset_type": "mobile_tower",
+    "district": "Ganjam",
+    "elevation_m": 180.9,
+    "age_years": 24.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 62.73,
+    "dist_river_km": 7.42,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.47406,
+     20.42349
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Khordha #01",
+    "asset_type": "power_substation",
+    "district": "Khordha",
+    "elevation_m": 46.0,
+    "age_years": 50.0,
+    "historical_damage_count": 0.0,
+    "capacity": "220/132 kV",
+    "dist_coast_km": 78.29,
+    "dist_river_km": 7.49,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.40573,
+     20.9419
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Bhadrak #01",
+    "asset_type": "hospital",
+    "district": "Bhadrak",
+    "elevation_m": 23.1,
+    "age_years": 10.0,
+    "historical_damage_count": 1.0,
+    "capacity": "250 beds",
+    "dist_coast_km": 55.48,
+    "dist_river_km": 3.66,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.23824,
+     21.96601
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Balasore #03",
+    "asset_type": "power_substation",
+    "district": "Balasore",
+    "elevation_m": 56.8,
+    "age_years": 55.0,
+    "historical_damage_count": 0.0,
+    "capacity": "33/11 kV",
+    "dist_coast_km": 43.98,
+    "dist_river_km": 15.66,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.51267,
+     20.83724
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Nayagarh #01",
+    "asset_type": "emergency_shelter",
+    "district": "Nayagarh",
+    "elevation_m": 283.3,
+    "age_years": 53.0,
+    "historical_damage_count": 0.0,
+    "capacity": "2000 persons",
+    "dist_coast_km": 227.36,
+    "dist_river_km": 113.69,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.70042,
+     20.11258
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Ganjam #03",
+    "asset_type": "mobile_tower",
+    "district": "Ganjam",
+    "elevation_m": 262.0,
+    "age_years": 23.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 159.42,
+    "dist_river_km": 74.46,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.24679,
+     19.77712
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Ganjam #04",
+    "asset_type": "road",
+    "district": "Ganjam",
+    "elevation_m": 228.5,
+    "age_years": 25.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 91.64,
+    "dist_river_km": 6.33,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.62498,
+     20.08726
+    ]
+   },
+   "properties": {
+    "name": "School - Khordha #03",
+    "asset_type": "school",
+    "district": "Khordha",
+    "elevation_m": 16.1,
+    "age_years": 14.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 37.74,
+    "dist_river_km": 43.4,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.73916,
+     20.23257
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Khordha #01",
+    "asset_type": "railway",
+    "district": "Khordha",
+    "elevation_m": 21.1,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 48.72,
+    "dist_river_km": 25.76,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.08714,
+     18.47502
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Srikakulam #01",
+    "asset_type": "emergency_shelter",
+    "district": "Srikakulam",
+    "elevation_m": 22.8,
+    "age_years": null,
+    "historical_damage_count": 1.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 14.38,
+    "dist_river_km": 131.2,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.90009,
+     21.89278
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Mayurbhanj #01",
+    "asset_type": "road",
+    "district": "Mayurbhanj",
+    "elevation_m": 152.0,
+    "age_years": 47.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 128.45,
+    "dist_river_km": 52.6,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.90376,
+     21.4322
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Balasore #01",
+    "asset_type": "emergency_shelter",
+    "district": "Balasore",
+    "elevation_m": 8.1,
+    "age_years": 44.0,
+    "historical_damage_count": 1.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 13.66,
+    "dist_river_km": 8.71,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.91344,
+     20.18389
+    ]
+   },
+   "properties": {
+    "name": "School - Ganjam #02",
+    "asset_type": "school",
+    "district": "Ganjam",
+    "elevation_m": 258.9,
+    "age_years": 33.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 147.66,
+    "dist_river_km": 62.89,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.31192,
+     22.1901
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Kendujhar #01",
+    "asset_type": "road",
+    "district": "Kendujhar",
+    "elevation_m": 430.4,
+    "age_years": null,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 356.88,
+    "dist_river_km": 191.32,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.58458,
+     18.7363
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #09",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 230.7,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 71.73,
+    "dist_river_km": 135.54,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.05432,
+     22.04829
+    ]
+   },
+   "properties": {
+    "name": "School - Kendujhar #02",
+    "asset_type": "school",
+    "district": "Kendujhar",
+    "elevation_m": 406.3,
+    "age_years": 31.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 303.0,
+    "dist_river_km": 134.45,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.19615,
+     20.76401
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Jajpur #02",
+    "asset_type": "bridge",
+    "district": "Jajpur",
+    "elevation_m": 19.9,
+    "age_years": 29.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 67.1,
+    "dist_river_km": 0.41,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.83563,
+     20.86617
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Jajpur #01",
+    "asset_type": "water_facility",
+    "district": "Jajpur",
+    "elevation_m": 39.8,
+    "age_years": 23.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 106.0,
+    "dist_river_km": 1.76,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.50786,
+     18.35391
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #10",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 139.1,
+    "age_years": 50.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 43.45,
+    "dist_river_km": 175.09,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.13663,
+     22.06834
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Balasore #01",
+    "asset_type": "mobile_tower",
+    "district": "Balasore",
+    "elevation_m": 98.1,
+    "age_years": 41.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 58.66,
+    "dist_river_km": 17.63,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.57566,
+     20.56852
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Dhenkanal #01",
+    "asset_type": "water_facility",
+    "district": "Dhenkanal",
+    "elevation_m": 41.0,
+    "age_years": 44.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 89.46,
+    "dist_river_km": 9.92,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.1633,
+     22.07831
+    ]
+   },
+   "properties": {
+    "name": "School - Balasore #02",
+    "asset_type": "school",
+    "district": "Balasore",
+    "elevation_m": 97.1,
+    "age_years": 34.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 58.51,
+    "dist_river_km": 20.08,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.50677,
+     20.86791
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Bhadrak #01",
+    "asset_type": "mobile_tower",
+    "district": "Bhadrak",
+    "elevation_m": 14.4,
+    "age_years": 9.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 44.67,
+    "dist_river_km": 7.09,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.62833,
+     21.60194
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Balasore #01",
+    "asset_type": "bridge",
+    "district": "Balasore",
+    "elevation_m": 51.8,
+    "age_years": 49.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 46.75,
+    "dist_river_km": 1.3,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.27768,
+     20.74723
+    ]
+   },
+   "properties": {
+    "name": "School - Nayagarh #03",
+    "asset_type": "school",
+    "district": "Nayagarh",
+    "elevation_m": 254.9,
+    "age_years": 4.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 168.68,
+    "dist_river_km": 40.39,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.83625,
+     20.32245
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Cuttack #02",
+    "asset_type": "railway",
+    "district": "Cuttack",
+    "elevation_m": 18.9,
+    "age_years": 18.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 55.2,
+    "dist_river_km": 11.55,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.44354,
+     18.26195
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Srikakulam #02",
+    "asset_type": "emergency_shelter",
+    "district": "Srikakulam",
+    "elevation_m": 120.7,
+    "age_years": 31.0,
+    "historical_damage_count": 0.0,
+    "capacity": "2000 persons",
+    "dist_coast_km": 39.64,
+    "dist_river_km": 187.39,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.257,
+     20.99081
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Jajpur #01",
+    "asset_type": "hospital",
+    "district": "Jajpur",
+    "elevation_m": 29.8,
+    "age_years": 22.0,
+    "historical_damage_count": 0.0,
+    "capacity": "500 beds",
+    "dist_coast_km": 69.88,
+    "dist_river_km": 4.74,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.94052,
+     21.22627
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Balasore #01",
+    "asset_type": "water_facility",
+    "district": "Balasore",
+    "elevation_m": 2.2,
+    "age_years": 12.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 2.58,
+    "dist_river_km": 28.36,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.87859,
+     21.4052
+    ]
+   },
+   "properties": {
+    "name": "School - Kendujhar #03",
+    "asset_type": "school",
+    "district": "Kendujhar",
+    "elevation_m": 228.8,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 202.78,
+    "dist_river_km": 32.34,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.81107,
+     18.64648
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #11",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 165.5,
+    "age_years": 30.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 48.6,
+    "dist_river_km": 130.0,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.47624,
+     19.44763
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Ganjam #05",
+    "asset_type": "road",
+    "district": "Ganjam",
+    "elevation_m": 153.8,
+    "age_years": 23.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 50.73,
+    "dist_river_km": 16.79,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.45925,
+     18.6043
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #12",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 227.4,
+    "age_years": 20.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 68.44,
+    "dist_river_km": 155.17,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.77331,
+     21.79162
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Balasore #02",
+    "asset_type": "mobile_tower",
+    "district": "Balasore",
+    "elevation_m": 12.2,
+    "age_years": 13.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 13.74,
+    "dist_river_km": 43.17,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.82896,
+     19.80475
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Ganjam #01",
+    "asset_type": "hospital",
+    "district": "Ganjam",
+    "elevation_m": 255.2,
+    "age_years": 19.0,
+    "historical_damage_count": 0.0,
+    "capacity": "250 beds",
+    "dist_coast_km": 128.92,
+    "dist_river_km": 49.65,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.32536,
+     21.00878
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Jajpur #03",
+    "asset_type": "bridge",
+    "district": "Jajpur",
+    "elevation_m": 25.0,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 62.55,
+    "dist_river_km": 0.11,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.63819,
+     20.48091
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Kendrapara #03",
+    "asset_type": "emergency_shelter",
+    "district": "Kendrapara",
+    "elevation_m": 5.0,
+    "age_years": 52.0,
+    "historical_damage_count": 0.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 12.57,
+    "dist_river_km": 19.29,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.10832,
+     21.08666
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Jajpur #01",
+    "asset_type": "mobile_tower",
+    "district": "Jajpur",
+    "elevation_m": 40.4,
+    "age_years": 24.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 84.22,
+    "dist_river_km": 1.02,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.02226,
+     20.16366
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Jagatsinghpur #01",
+    "asset_type": "mobile_tower",
+    "district": "Jagatsinghpur",
+    "elevation_m": 9.0,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 31.2,
+    "dist_river_km": 11.87,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.96237,
+     21.49031
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Balasore #02",
+    "asset_type": "bridge",
+    "district": "Balasore",
+    "elevation_m": 3.2,
+    "age_years": 48.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 10.11,
+    "dist_river_km": 0.48,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.38701,
+     19.69254
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Ganjam #03",
+    "asset_type": "bridge",
+    "district": "Ganjam",
+    "elevation_m": 207.5,
+    "age_years": 50.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 74.4,
+    "dist_river_km": 0.05,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.11414,
+     22.14337
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Kendujhar #02",
+    "asset_type": "power_substation",
+    "district": "Kendujhar",
+    "elevation_m": 238.4,
+    "age_years": 35.0,
+    "historical_damage_count": 0.0,
+    "capacity": "33/11 kV",
+    "dist_coast_km": 213.77,
+    "dist_river_km": 104.91,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.32736,
+     19.95818
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Nayagarh #02",
+    "asset_type": "railway",
+    "district": "Nayagarh",
+    "elevation_m": 27.6,
+    "age_years": 34.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 36.56,
+    "dist_river_km": 61.04,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.85461,
+     20.2906
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Cuttack #03",
+    "asset_type": "railway",
+    "district": "Cuttack",
+    "elevation_m": 17.2,
+    "age_years": 36.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 51.25,
+    "dist_river_km": 12.93,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.77549,
+     18.61452
+    ]
+   },
+   "properties": {
+    "name": "School - Srikakulam #01",
+    "asset_type": "school",
+    "district": "Srikakulam",
+    "elevation_m": 169.1,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 48.65,
+    "dist_river_km": 135.07,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.5729,
+     19.85384
+    ]
+   },
+   "properties": {
+    "name": "School - Puri #01",
+    "asset_type": "school",
+    "district": "Puri",
+    "elevation_m": 6.8,
+    "age_years": null,
+    "historical_damage_count": 2.0,
+    "capacity": null,
+    "dist_coast_km": 15.93,
+    "dist_river_km": 68.84,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.88655,
+     20.25371
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Cuttack #01",
+    "asset_type": "road",
+    "district": "Cuttack",
+    "elevation_m": 16.6,
+    "age_years": 12.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 46.33,
+    "dist_river_km": 13.79,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.4275,
+     21.29606
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Bhadrak #02",
+    "asset_type": "mobile_tower",
+    "district": "Bhadrak",
+    "elevation_m": 45.2,
+    "age_years": 37.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 55.35,
+    "dist_river_km": 33.42,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9509,
+     19.44721
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Ganjam #01",
+    "asset_type": "emergency_shelter",
+    "district": "Ganjam",
+    "elevation_m": 13.3,
+    "age_years": 55.0,
+    "historical_damage_count": 1.0,
+    "capacity": "1000 persons",
+    "dist_coast_km": 12.69,
+    "dist_river_km": 3.39,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.34767,
+     20.37631
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Jagatsinghpur #01",
+    "asset_type": "bridge",
+    "district": "Jagatsinghpur",
+    "elevation_m": 7.7,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 31.41,
+    "dist_river_km": 0.99,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.89386,
+     22.01829
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Balasore #03",
+    "asset_type": "mobile_tower",
+    "district": "Balasore",
+    "elevation_m": 43.8,
+    "age_years": 19.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 37.47,
+    "dist_river_km": 69.07,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.59362,
+     20.3033
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Kendrapara #01",
+    "asset_type": "water_facility",
+    "district": "Kendrapara",
+    "elevation_m": 3.5,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 8.79,
+    "dist_river_km": 1.0,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.48654,
+     20.3006
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Jagatsinghpur #03",
+    "asset_type": "road",
+    "district": "Jagatsinghpur",
+    "elevation_m": 1.8,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 15.69,
+    "dist_river_km": 3.87,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.25875,
+     20.85664
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Jajpur #01",
+    "asset_type": "emergency_shelter",
+    "district": "Jajpur",
+    "elevation_m": 27.7,
+    "age_years": 42.0,
+    "historical_damage_count": 0.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 65.77,
+    "dist_river_km": 11.47,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.88813,
+     20.46242
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Cuttack #03",
+    "asset_type": "mobile_tower",
+    "district": "Cuttack",
+    "elevation_m": 20.4,
+    "age_years": 54.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 66.84,
+    "dist_river_km": 0.63,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.77269,
+     20.93447
+    ]
+   },
+   "properties": {
+    "name": "School - Bhadrak #01",
+    "asset_type": "school",
+    "district": "Bhadrak",
+    "elevation_m": 7.6,
+    "age_years": 31.0,
+    "historical_damage_count": 2.0,
+    "capacity": null,
+    "dist_coast_km": 17.95,
+    "dist_river_km": 8.91,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.41973,
+     21.07655
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Bhadrak #01",
+    "asset_type": "road",
+    "district": "Bhadrak",
+    "elevation_m": 27.0,
+    "age_years": 42.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 51.97,
+    "dist_river_km": 10.67,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.52317,
+     20.23081
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Khordha #02",
+    "asset_type": "mobile_tower",
+    "district": "Khordha",
+    "elevation_m": 32.4,
+    "age_years": 38.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 56.57,
+    "dist_river_km": 27.85,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.78357,
+     20.03006
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Puri #02",
+    "asset_type": "road",
+    "district": "Puri",
+    "elevation_m": 9.0,
+    "age_years": null,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 25.86,
+    "dist_river_km": 39.54,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.52415,
+     18.25131
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Srikakulam #01",
+    "asset_type": "power_substation",
+    "district": "Srikakulam",
+    "elevation_m": 89.6,
+    "age_years": 12.0,
+    "historical_damage_count": 0.0,
+    "capacity": "220/132 kV",
+    "dist_coast_km": 33.44,
+    "dist_river_km": 183.47,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.49837,
+     19.0836
+    ]
+   },
+   "properties": {
+    "name": "School - Ganjam #03",
+    "asset_type": "school",
+    "district": "Ganjam",
+    "elevation_m": 45.9,
+    "age_years": null,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 25.7,
+    "dist_river_km": 51.92,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.8151,
+     19.38385
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Ganjam #02",
+    "asset_type": "emergency_shelter",
+    "district": "Ganjam",
+    "elevation_m": 19.9,
+    "age_years": 45.0,
+    "historical_damage_count": 0.0,
+    "capacity": "2000 persons",
+    "dist_coast_km": 18.22,
+    "dist_river_km": 8.2,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.86103,
+     20.35068
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Cuttack #04",
+    "asset_type": "railway",
+    "district": "Cuttack",
+    "elevation_m": 22.2,
+    "age_years": 33.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 57.41,
+    "dist_river_km": 7.49,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.10782,
+     19.80878
+    ]
+   },
+   "properties": {
+    "name": "School - Nayagarh #04",
+    "asset_type": "school",
+    "district": "Nayagarh",
+    "elevation_m": 34.9,
+    "age_years": 21.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 34.23,
+    "dist_river_km": 46.8,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.47111,
+     21.00829
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Bhadrak #03",
+    "asset_type": "mobile_tower",
+    "district": "Bhadrak",
+    "elevation_m": 23.8,
+    "age_years": 32.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 47.61,
+    "dist_river_km": 5.8,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.26008,
+     21.04144
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Jajpur #04",
+    "asset_type": "bridge",
+    "district": "Jajpur",
+    "elevation_m": 32.7,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 68.8,
+    "dist_river_km": 0.56,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.67473,
+     20.87532
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Bhadrak #01",
+    "asset_type": "bridge",
+    "district": "Bhadrak",
+    "elevation_m": 7.4,
+    "age_years": 46.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 29.02,
+    "dist_river_km": 0.35,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.82817,
+     20.74457
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Kendrapara #01",
+    "asset_type": "bridge",
+    "district": "Kendrapara",
+    "elevation_m": 3.1,
+    "age_years": 2.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 9.14,
+    "dist_river_km": 0.33,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.1963,
+     20.40595
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Jagatsinghpur #02",
+    "asset_type": "bridge",
+    "district": "Jagatsinghpur",
+    "elevation_m": 10.9,
+    "age_years": 27.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 44.02,
+    "dist_river_km": 0.56,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.55913,
+     20.41412
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Khordha #01",
+    "asset_type": "water_facility",
+    "district": "Khordha",
+    "elevation_m": 36.9,
+    "age_years": 16.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 73.89,
+    "dist_river_km": 7.29,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.63589,
+     20.32426
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Kendrapara #02",
+    "asset_type": "water_facility",
+    "district": "Kendrapara",
+    "elevation_m": 3.0,
+    "age_years": 22.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 6.05,
+    "dist_river_km": 2.29,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.48256,
+     20.20703
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Jagatsinghpur #01",
+    "asset_type": "emergency_shelter",
+    "district": "Jagatsinghpur",
+    "elevation_m": 4.9,
+    "age_years": 24.0,
+    "historical_damage_count": 0.0,
+    "capacity": "2000 persons",
+    "dist_coast_km": 7.95,
+    "dist_river_km": 14.09,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.88597,
+     21.29456
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Balasore #02",
+    "asset_type": "emergency_shelter",
+    "district": "Balasore",
+    "elevation_m": 5.8,
+    "age_years": 39.0,
+    "historical_damage_count": 0.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 10.41,
+    "dist_river_km": 23.61,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.38562,
+     21.10254
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Bhadrak #04",
+    "asset_type": "mobile_tower",
+    "district": "Bhadrak",
+    "elevation_m": 32.7,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 55.44,
+    "dist_river_km": 11.94,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.56046,
+     19.02253
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Ganjam #04",
+    "asset_type": "mobile_tower",
+    "district": "Ganjam",
+    "elevation_m": 21.5,
+    "age_years": 36.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 16.47,
+    "dist_river_km": 55.64,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.23772,
+     20.60627
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Kendrapara #02",
+    "asset_type": "road",
+    "district": "Kendrapara",
+    "elevation_m": 21.7,
+    "age_years": 50.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 56.39,
+    "dist_river_km": 15.49,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.87387,
+     19.40094
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Ganjam #01",
+    "asset_type": "railway",
+    "district": "Ganjam",
+    "elevation_m": 14.6,
+    "age_years": null,
+    "historical_damage_count": 2.0,
+    "capacity": null,
+    "dist_coast_km": 15.04,
+    "dist_river_km": 4.24,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.06458,
+     20.08017
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Jagatsinghpur #02",
+    "asset_type": "mobile_tower",
+    "district": "Jagatsinghpur",
+    "elevation_m": 7.1,
+    "age_years": 53.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 20.97,
+    "dist_river_km": 15.63,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.86567,
+     22.18056
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Mayurbhanj #01",
+    "asset_type": "emergency_shelter",
+    "district": "Mayurbhanj",
+    "elevation_m": 132.6,
+    "age_years": 9.0,
+    "historical_damage_count": 1.0,
+    "capacity": "1000 persons",
+    "dist_coast_km": 81.69,
+    "dist_river_km": 12.36,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.65721,
+     21.57797
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Kendujhar #01",
+    "asset_type": "emergency_shelter",
+    "district": "Kendujhar",
+    "elevation_m": 306.9,
+    "age_years": 21.0,
+    "historical_damage_count": 0.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 229.37,
+    "dist_river_km": 62.15,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.39973,
+     19.22447
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Ganjam #06",
+    "asset_type": "road",
+    "district": "Ganjam",
+    "elevation_m": 128.1,
+    "age_years": 30.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 43.15,
+    "dist_river_km": 41.86,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.96733,
+     21.78629
+    ]
+   },
+   "properties": {
+    "name": "School - Balasore #03",
+    "asset_type": "school",
+    "district": "Balasore",
+    "elevation_m": 8.0,
+    "age_years": 20.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 11.01,
+    "dist_river_km": 60.47,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.29835,
+     20.37708
+    ]
+   },
+   "properties": {
+    "name": "School - Jagatsinghpur #01",
+    "asset_type": "school",
+    "district": "Jagatsinghpur",
+    "elevation_m": 7.3,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 34.76,
+    "dist_river_km": 0.12,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.41179,
+     18.36207
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #13",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 179.9,
+    "age_years": 30.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 50.45,
+    "dist_river_km": 180.17,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.79788,
+     18.61942
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Srikakulam #02",
+    "asset_type": "mobile_tower",
+    "district": "Srikakulam",
+    "elevation_m": 163.1,
+    "age_years": 6.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 47.54,
+    "dist_river_km": 133.27,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.89321,
+     21.06416
+    ]
+   },
+   "properties": {
+    "name": "School - Bhadrak #02",
+    "asset_type": "school",
+    "district": "Bhadrak",
+    "elevation_m": 2.8,
+    "age_years": 5.0,
+    "historical_damage_count": 3.0,
+    "capacity": null,
+    "dist_coast_km": 3.36,
+    "dist_river_km": 26.36,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.16291,
+     21.90242
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Mayurbhanj #01",
+    "asset_type": "hospital",
+    "district": "Mayurbhanj",
+    "elevation_m": 140.9,
+    "age_years": 38.0,
+    "historical_damage_count": 1.0,
+    "capacity": "100 beds",
+    "dist_coast_km": 104.43,
+    "dist_river_km": 26.98,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.91881,
+     19.94387
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Puri #02",
+    "asset_type": "emergency_shelter",
+    "district": "Puri",
+    "elevation_m": 4.4,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": "1000 persons",
+    "dist_coast_km": 12.47,
+    "dist_river_km": 37.11,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.41534,
+     18.43511
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Srikakulam #02",
+    "asset_type": "water_facility",
+    "district": "Srikakulam",
+    "elevation_m": 201.4,
+    "age_years": 10.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 56.58,
+    "dist_river_km": 173.28,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.08826,
+     20.83062
+    ]
+   },
+   "properties": {
+    "name": "School - Jajpur #02",
+    "asset_type": "school",
+    "district": "Jajpur",
+    "elevation_m": 26.7,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 80.28,
+    "dist_river_km": 2.8,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.66367,
+     19.85139
+    ]
+   },
+   "properties": {
+    "name": "School - Ganjam #04",
+    "asset_type": "school",
+    "district": "Ganjam",
+    "elevation_m": 165.0,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 65.34,
+    "dist_river_km": 31.19,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.25511,
+     21.99984
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Balasore #02",
+    "asset_type": "water_facility",
+    "district": "Balasore",
+    "elevation_m": 64.2,
+    "age_years": 15.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 46.9,
+    "dist_river_km": 19.4,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.38873,
+     20.44998
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Kendrapara #03",
+    "asset_type": "road",
+    "district": "Kendrapara",
+    "elevation_m": 13.2,
+    "age_years": 19.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 34.97,
+    "dist_river_km": 9.94,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.18436,
+     20.0752
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Jagatsinghpur #04",
+    "asset_type": "road",
+    "district": "Jagatsinghpur",
+    "elevation_m": 6.3,
+    "age_years": null,
+    "historical_damage_count": 2.0,
+    "capacity": null,
+    "dist_coast_km": 14.03,
+    "dist_river_km": 6.88,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.54073,
+     22.19906
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Mayurbhanj #02",
+    "asset_type": "hospital",
+    "district": "Mayurbhanj",
+    "elevation_m": 143.5,
+    "age_years": 50.0,
+    "historical_damage_count": 1.0,
+    "capacity": "250 beds",
+    "dist_coast_km": 98.42,
+    "dist_river_km": 17.28,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.2561,
+     19.72245
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Ganjam #07",
+    "asset_type": "road",
+    "district": "Ganjam",
+    "elevation_m": 227.8,
+    "age_years": 32.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 87.11,
+    "dist_river_km": 5.52,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.81473,
+     20.84475
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Bhadrak #03",
+    "asset_type": "emergency_shelter",
+    "district": "Bhadrak",
+    "elevation_m": 2.0,
+    "age_years": 19.0,
+    "historical_damage_count": 0.0,
+    "capacity": "500 persons",
+    "dist_coast_km": 15.18,
+    "dist_river_km": 0.65,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.48254,
+     21.40279
+    ]
+   },
+   "properties": {
+    "name": "School - Bhadrak #03",
+    "asset_type": "school",
+    "district": "Bhadrak",
+    "elevation_m": 50.4,
+    "age_years": 18.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 53.81,
+    "dist_river_km": 27.95,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.81201,
+     20.31348
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Nayagarh #01",
+    "asset_type": "road",
+    "district": "Nayagarh",
+    "elevation_m": 261.9,
+    "age_years": 9.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 165.17,
+    "dist_river_km": 80.72,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.53777,
+     21.71139
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Balasore #03",
+    "asset_type": "emergency_shelter",
+    "district": "Balasore",
+    "elevation_m": 6.4,
+    "age_years": 43.0,
+    "historical_damage_count": 1.0,
+    "capacity": "1000 persons",
+    "dist_coast_km": 8.26,
+    "dist_river_km": 19.27,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.86399,
+     20.70907
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Kendrapara #04",
+    "asset_type": "emergency_shelter",
+    "district": "Kendrapara",
+    "elevation_m": 2.5,
+    "age_years": 45.0,
+    "historical_damage_count": 0.0,
+    "capacity": "500 persons",
+    "dist_coast_km": 3.88,
+    "dist_river_km": 4.78,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.81088,
+     21.51976
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Balasore #04",
+    "asset_type": "mobile_tower",
+    "district": "Balasore",
+    "elevation_m": 18.3,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 25.91,
+    "dist_river_km": 2.79,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.65,
+     21.91144
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Mayurbhanj #02",
+    "asset_type": "power_substation",
+    "district": "Mayurbhanj",
+    "elevation_m": 111.8,
+    "age_years": 24.0,
+    "historical_damage_count": 0.0,
+    "capacity": "33/11 kV",
+    "dist_coast_km": 65.84,
+    "dist_river_km": 24.88,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.83096,
+     21.62441
+    ]
+   },
+   "properties": {
+    "name": "School - Balasore #04",
+    "asset_type": "school",
+    "district": "Balasore",
+    "elevation_m": 21.0,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 29.81,
+    "dist_river_km": 8.87,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.86216,
+     22.09999
+    ]
+   },
+   "properties": {
+    "name": "School - Balasore #05",
+    "asset_type": "school",
+    "district": "Balasore",
+    "elevation_m": 66.1,
+    "age_years": 17.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 46.85,
+    "dist_river_km": 73.86,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.53406,
+     18.54677
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #14",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 210.2,
+    "age_years": 23.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 58.54,
+    "dist_river_km": 155.89,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.38309,
+     21.29042
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Bhadrak #02",
+    "asset_type": "road",
+    "district": "Bhadrak",
+    "elevation_m": 48.4,
+    "age_years": 47.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 59.49,
+    "dist_river_km": 31.03,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.5484,
+     21.64006
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Mayurbhanj #02",
+    "asset_type": "road",
+    "district": "Mayurbhanj",
+    "elevation_m": 72.2,
+    "age_years": 9.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 55.99,
+    "dist_river_km": 3.47,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.47606,
+     20.02324
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Khordha #02",
+    "asset_type": "emergency_shelter",
+    "district": "Khordha",
+    "elevation_m": 19.7,
+    "age_years": 29.0,
+    "historical_damage_count": 0.0,
+    "capacity": "1000 persons",
+    "dist_coast_km": 37.21,
+    "dist_river_km": 51.37,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.64853,
+     21.91481
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Balasore #05",
+    "asset_type": "mobile_tower",
+    "district": "Balasore",
+    "elevation_m": 28.3,
+    "age_years": 12.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 28.74,
+    "dist_river_km": 44.39,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.04768,
+     21.4527
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Balasore #03",
+    "asset_type": "bridge",
+    "district": "Balasore",
+    "elevation_m": 1.9,
+    "age_years": 54.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 0.38,
+    "dist_river_km": 0.85,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.09704,
+     22.10606
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Mayurbhanj #02",
+    "asset_type": "mobile_tower",
+    "district": "Mayurbhanj",
+    "elevation_m": 154.5,
+    "age_years": 20.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 122.31,
+    "dist_river_km": 46.18,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.34457,
+     21.60796
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Balasore #04",
+    "asset_type": "bridge",
+    "district": "Balasore",
+    "elevation_m": 3.5,
+    "age_years": 28.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 3.2,
+    "dist_river_km": 1.42,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.74111,
+     22.15576
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Mayurbhanj #03",
+    "asset_type": "mobile_tower",
+    "district": "Mayurbhanj",
+    "elevation_m": 168.4,
+    "age_years": 16.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 155.98,
+    "dist_river_km": 78.54,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.57905,
+     20.25074
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Kendrapara #05",
+    "asset_type": "emergency_shelter",
+    "district": "Kendrapara",
+    "elevation_m": 3.4,
+    "age_years": 40.0,
+    "historical_damage_count": 2.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 5.26,
+    "dist_river_km": 7.04,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.07268,
+     20.29298
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Jagatsinghpur #01",
+    "asset_type": "power_substation",
+    "district": "Jagatsinghpur",
+    "elevation_m": 12.1,
+    "age_years": 45.0,
+    "historical_damage_count": 0.0,
+    "capacity": "220/132 kV",
+    "dist_coast_km": 40.78,
+    "dist_river_km": 2.37,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.47619,
+     18.48649
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #15",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 207.0,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 57.07,
+    "dist_river_km": 164.9,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.30989,
+     20.00715
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Ganjam #08",
+    "asset_type": "road",
+    "district": "Ganjam",
+    "elevation_m": 232.2,
+    "age_years": 26.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 104.11,
+    "dist_river_km": 28.61,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.84414,
+     21.36258
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Dhenkanal #01",
+    "asset_type": "mobile_tower",
+    "district": "Dhenkanal",
+    "elevation_m": 334.7,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 250.31,
+    "dist_river_km": 90.73,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.65454,
+     20.55143
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Kendrapara #06",
+    "asset_type": "emergency_shelter",
+    "district": "Kendrapara",
+    "elevation_m": 7.7,
+    "age_years": 13.0,
+    "historical_damage_count": 2.0,
+    "capacity": "2000 persons",
+    "dist_coast_km": 14.03,
+    "dist_river_km": 19.53,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.17497,
+     21.01742
+    ]
+   },
+   "properties": {
+    "name": "School - Jajpur #03",
+    "asset_type": "school",
+    "district": "Jajpur",
+    "elevation_m": 38.6,
+    "age_years": 9.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 77.88,
+    "dist_river_km": 5.38,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.136,
+     21.0776
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Jajpur #05",
+    "asset_type": "bridge",
+    "district": "Jajpur",
+    "elevation_m": 36.9,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 81.38,
+    "dist_river_km": 0.82,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.78972,
+     21.70837
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Balasore #06",
+    "asset_type": "mobile_tower",
+    "district": "Balasore",
+    "elevation_m": 4.7,
+    "age_years": 28.0,
+    "historical_damage_count": 2.0,
+    "capacity": null,
+    "dist_coast_km": 4.36,
+    "dist_river_km": 40.22,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.27964,
+     21.2577
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Bhadrak #01",
+    "asset_type": "power_substation",
+    "district": "Bhadrak",
+    "elevation_m": 51.3,
+    "age_years": 28.0,
+    "historical_damage_count": 1.0,
+    "capacity": "220/132 kV",
+    "dist_coast_km": 68.64,
+    "dist_river_km": 23.46,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.48843,
+     18.58862
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Srikakulam #03",
+    "asset_type": "mobile_tower",
+    "district": "Srikakulam",
+    "elevation_m": 223.3,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 65.16,
+    "dist_river_km": 154.84,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.36565,
+     20.09022
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Jagatsinghpur #05",
+    "asset_type": "road",
+    "district": "Jagatsinghpur",
+    "elevation_m": 2.4,
+    "age_years": 42.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 5.68,
+    "dist_river_km": 8.06,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.02698,
+     19.44753
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Ganjam #03",
+    "asset_type": "emergency_shelter",
+    "district": "Ganjam",
+    "elevation_m": 6.3,
+    "age_years": 16.0,
+    "historical_damage_count": 3.0,
+    "capacity": "2000 persons",
+    "dist_coast_km": 6.91,
+    "dist_river_km": 6.2,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.95853,
+     22.1459
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Mayurbhanj #03",
+    "asset_type": "hospital",
+    "district": "Mayurbhanj",
+    "elevation_m": 160.5,
+    "age_years": 46.0,
+    "historical_damage_count": 0.0,
+    "capacity": "500 beds",
+    "dist_coast_km": 136.47,
+    "dist_river_km": 59.55,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.63002,
+     20.17931
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Khordha #02",
+    "asset_type": "railway",
+    "district": "Khordha",
+    "elevation_m": 21.8,
+    "age_years": 19.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 46.97,
+    "dist_river_km": 33.15,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.50582,
+     20.60039
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Kendrapara #01",
+    "asset_type": "power_substation",
+    "district": "Kendrapara",
+    "elevation_m": 9.0,
+    "age_years": 20.0,
+    "historical_damage_count": 0.0,
+    "capacity": "132/33 kV",
+    "dist_coast_km": 30.4,
+    "dist_river_km": 12.3,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.45612,
+     22.00588
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Mayurbhanj #03",
+    "asset_type": "road",
+    "district": "Mayurbhanj",
+    "elevation_m": 135.2,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 87.0,
+    "dist_river_km": 23.61,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.85753,
+     20.74176
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Kendrapara #04",
+    "asset_type": "road",
+    "district": "Kendrapara",
+    "elevation_m": 3.2,
+    "age_years": null,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 6.39,
+    "dist_river_km": 1.21,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.99567,
+     19.72251
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Ganjam #05",
+    "asset_type": "mobile_tower",
+    "district": "Ganjam",
+    "elevation_m": 246.8,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 109.42,
+    "dist_river_km": 32.0,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.11516,
+     21.77174
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Kendujhar #02",
+    "asset_type": "mobile_tower",
+    "district": "Kendujhar",
+    "elevation_m": 225.3,
+    "age_years": 45.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 200.54,
+    "dist_river_km": 63.59,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.39197,
+     20.57993
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Kendrapara #05",
+    "asset_type": "road",
+    "district": "Kendrapara",
+    "elevation_m": 14.6,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 40.45,
+    "dist_river_km": 13.38,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.34779,
+     20.2758
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Jagatsinghpur #03",
+    "asset_type": "mobile_tower",
+    "district": "Jagatsinghpur",
+    "elevation_m": 8.7,
+    "age_years": 32.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 22.8,
+    "dist_river_km": 9.88,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.12167,
+     20.40507
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Cuttack #02",
+    "asset_type": "bridge",
+    "district": "Cuttack",
+    "elevation_m": 16.3,
+    "age_years": 19.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 48.79,
+    "dist_river_km": 1.31,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.09408,
+     20.0597
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Nayagarh #02",
+    "asset_type": "mobile_tower",
+    "district": "Nayagarh",
+    "elevation_m": 79.3,
+    "age_years": 47.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 58.44,
+    "dist_river_km": 53.89,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.02182,
+     18.42243
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Srikakulam #01",
+    "asset_type": "hospital",
+    "district": "Srikakulam",
+    "elevation_m": 24.0,
+    "age_years": 10.0,
+    "historical_damage_count": 0.0,
+    "capacity": "30 beds",
+    "dist_coast_km": 15.35,
+    "dist_river_km": 139.43,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.11822,
+     21.89447
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Balasore #05",
+    "asset_type": "bridge",
+    "district": "Balasore",
+    "elevation_m": 46.5,
+    "age_years": 20.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 41.92,
+    "dist_river_km": 1.06,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.93793,
+     21.39065
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Balasore #04",
+    "asset_type": "emergency_shelter",
+    "district": "Balasore",
+    "elevation_m": 6.4,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": "2000 persons",
+    "dist_coast_km": 8.81,
+    "dist_river_km": 11.67,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.74019,
+     20.83472
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Dhenkanal #02",
+    "asset_type": "bridge",
+    "district": "Dhenkanal",
+    "elevation_m": 186.5,
+    "age_years": 30.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 150.98,
+    "dist_river_km": 0.26,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.71066,
+     20.99548
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Bhadrak #03",
+    "asset_type": "road",
+    "district": "Bhadrak",
+    "elevation_m": 8.0,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 23.26,
+    "dist_river_km": 13.51,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.59124,
+     20.44123
+    ]
+   },
+   "properties": {
+    "name": "School - Kendrapara #01",
+    "asset_type": "school",
+    "district": "Kendrapara",
+    "elevation_m": 5.7,
+    "age_years": 3.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 15.37,
+    "dist_river_km": 13.87,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.85087,
+     20.22849
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Ganjam #06",
+    "asset_type": "mobile_tower",
+    "district": "Ganjam",
+    "elevation_m": 260.9,
+    "age_years": 36.0,
+    "historical_damage_count": 2.0,
+    "capacity": null,
+    "dist_coast_km": 155.8,
+    "dist_river_km": 70.9,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.32768,
+     20.89767
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Jajpur #02",
+    "asset_type": "mobile_tower",
+    "district": "Jajpur",
+    "elevation_m": 25.1,
+    "age_years": 27.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 62.14,
+    "dist_river_km": 11.37,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.09901,
+     19.62792
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Ganjam #09",
+    "asset_type": "road",
+    "district": "Ganjam",
+    "elevation_m": 15.8,
+    "age_years": 53.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 17.83,
+    "dist_river_km": 27.63,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.06601,
+     21.75496
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Mayurbhanj #03",
+    "asset_type": "power_substation",
+    "district": "Mayurbhanj",
+    "elevation_m": 134.5,
+    "age_years": 23.0,
+    "historical_damage_count": 0.0,
+    "capacity": "220/132 kV",
+    "dist_coast_km": 107.13,
+    "dist_river_km": 34.85,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.74841,
+     20.06553
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Khordha #01",
+    "asset_type": "road",
+    "district": "Khordha",
+    "elevation_m": 12.9,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 30.72,
+    "dist_river_km": 39.02,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.06783,
+     20.39983
+    ]
+   },
+   "properties": {
+    "name": "School - Cuttack #02",
+    "asset_type": "school",
+    "district": "Cuttack",
+    "elevation_m": 14.5,
+    "age_years": 21.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 51.2,
+    "dist_river_km": 3.15,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.3406,
+     18.49554
+    ]
+   },
+   "properties": {
+    "name": "School - Srikakulam #02",
+    "asset_type": "school",
+    "district": "Srikakulam",
+    "elevation_m": 223.6,
+    "age_years": 9.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 66.73,
+    "dist_river_km": 172.32,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.33141,
+     19.79654
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Ganjam #06",
+    "asset_type": "water_facility",
+    "district": "Ganjam",
+    "elevation_m": 223.0,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 86.49,
+    "dist_river_km": 6.13,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.34121,
+     18.4282
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #16",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 215.8,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 60.82,
+    "dist_river_km": 178.41,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.76351,
+     19.23681
+    ]
+   },
+   "properties": {
+    "name": "School - Ganjam #05",
+    "asset_type": "school",
+    "district": "Ganjam",
+    "elevation_m": 12.5,
+    "age_years": 51.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 12.63,
+    "dist_river_km": 25.38,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.93332,
+     21.94537
+    ]
+   },
+   "properties": {
+    "name": "School - Balasore #06",
+    "asset_type": "school",
+    "district": "Balasore",
+    "elevation_m": 28.7,
+    "age_years": 25.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 28.97,
+    "dist_river_km": 66.61,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.70055,
+     20.37326
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Khordha #02",
+    "asset_type": "water_facility",
+    "district": "Khordha",
+    "elevation_m": 29.0,
+    "age_years": 7.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 64.85,
+    "dist_river_km": 11.36,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.12223,
+     19.57333
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Ganjam #07",
+    "asset_type": "mobile_tower",
+    "district": "Ganjam",
+    "elevation_m": 235.9,
+    "age_years": 16.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 89.12,
+    "dist_river_km": 27.07,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.40023,
+     20.46577
+    ]
+   },
+   "properties": {
+    "name": "School - Kendrapara #02",
+    "asset_type": "school",
+    "district": "Kendrapara",
+    "elevation_m": 13.6,
+    "age_years": 10.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 34.77,
+    "dist_river_km": 11.93,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.1139,
+     20.25666
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Jagatsinghpur #02",
+    "asset_type": "power_substation",
+    "district": "Jagatsinghpur",
+    "elevation_m": 9.3,
+    "age_years": 8.0,
+    "historical_damage_count": 0.0,
+    "capacity": "220/132 kV",
+    "dist_coast_km": 35.1,
+    "dist_river_km": 2.21,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.02673,
+     20.30729
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Cuttack #03",
+    "asset_type": "bridge",
+    "district": "Cuttack",
+    "elevation_m": 11.3,
+    "age_years": 16.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 44.62,
+    "dist_river_km": 0.38,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.91214,
+     18.47882
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #17",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 60.7,
+    "age_years": 25.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 27.89,
+    "dist_river_km": 139.46,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.20892,
+     18.59274
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #18",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 18.4,
+    "age_years": 51.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 14.06,
+    "dist_river_km": 114.09,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.77132,
+     18.50633
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #19",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 121.3,
+    "age_years": 12.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 39.49,
+    "dist_river_km": 145.19,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.32691,
+     19.73956
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Ganjam #04",
+    "asset_type": "bridge",
+    "district": "Ganjam",
+    "elevation_m": 220.0,
+    "age_years": 7.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 82.56,
+    "dist_river_km": 0.68,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.95493,
+     21.25336
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Balasore #05",
+    "asset_type": "emergency_shelter",
+    "district": "Balasore",
+    "elevation_m": 2.4,
+    "age_years": 15.0,
+    "historical_damage_count": 0.0,
+    "capacity": "1000 persons",
+    "dist_coast_km": 2.16,
+    "dist_river_km": 25.0,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.55344,
+     19.87725
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Puri #03",
+    "asset_type": "road",
+    "district": "Puri",
+    "elevation_m": 9.4,
+    "age_years": 30.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 19.11,
+    "dist_river_km": 66.98,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.36117,
+     18.88454
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Srikakulam #02",
+    "asset_type": "hospital",
+    "district": "Srikakulam",
+    "elevation_m": 251.1,
+    "age_years": 39.0,
+    "historical_damage_count": 1.0,
+    "capacity": "30 beds",
+    "dist_coast_km": 99.22,
+    "dist_river_km": 137.9,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.66125,
+     19.47851
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Ganjam #01",
+    "asset_type": "power_substation",
+    "district": "Ganjam",
+    "elevation_m": 81.3,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": "33/11 kV",
+    "dist_coast_km": 37.17,
+    "dist_river_km": 4.81,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.75168,
+     19.92364
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Puri #03",
+    "asset_type": "emergency_shelter",
+    "district": "Puri",
+    "elevation_m": 6.7,
+    "age_years": 18.0,
+    "historical_damage_count": 0.0,
+    "capacity": "500 persons",
+    "dist_coast_km": 15.85,
+    "dist_river_km": 50.62,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.88713,
+     19.51262
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Gajapati #02",
+    "asset_type": "road",
+    "district": "Gajapati",
+    "elevation_m": 244.7,
+    "age_years": 30.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 105.5,
+    "dist_river_km": 50.69,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.48824,
+     18.53179
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Srikakulam #03",
+    "asset_type": "hospital",
+    "district": "Srikakulam",
+    "elevation_m": 213.2,
+    "age_years": 17.0,
+    "historical_damage_count": 0.0,
+    "capacity": "250 beds",
+    "dist_coast_km": 60.23,
+    "dist_river_km": 160.03,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.62146,
+     20.33072
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Kendrapara #03",
+    "asset_type": "water_facility",
+    "district": "Kendrapara",
+    "elevation_m": 3.2,
+    "age_years": 33.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 7.71,
+    "dist_river_km": 2.64,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.87897,
+     21.09027
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Bhadrak #04",
+    "asset_type": "emergency_shelter",
+    "district": "Bhadrak",
+    "elevation_m": 2.9,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": "1000 persons",
+    "dist_coast_km": 4.37,
+    "dist_river_km": 28.7,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.21744,
+     21.71105
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Balasore #01",
+    "asset_type": "road",
+    "district": "Balasore",
+    "elevation_m": 11.9,
+    "age_years": 28.0,
+    "historical_damage_count": 2.0,
+    "capacity": null,
+    "dist_coast_km": 19.11,
+    "dist_river_km": 4.08,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.7476,
+     19.82992
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Puri #04",
+    "asset_type": "emergency_shelter",
+    "district": "Puri",
+    "elevation_m": 3.5,
+    "age_years": 21.0,
+    "historical_damage_count": 1.0,
+    "capacity": "1000 persons",
+    "dist_coast_km": 6.4,
+    "dist_river_km": 58.71,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.55419,
+     20.09156
+    ]
+   },
+   "properties": {
+    "name": "School - Khordha #04",
+    "asset_type": "school",
+    "district": "Khordha",
+    "elevation_m": 22.9,
+    "age_years": null,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 41.05,
+    "dist_river_km": 43.16,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.00636,
+     22.01674
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Kendujhar #02",
+    "asset_type": "road",
+    "district": "Kendujhar",
+    "elevation_m": 404.0,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 302.33,
+    "dist_river_km": 133.47,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.78228,
+     21.75852
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Balasore #02",
+    "asset_type": "road",
+    "district": "Balasore",
+    "elevation_m": 8.4,
+    "age_years": 3.0,
+    "historical_damage_count": 2.0,
+    "capacity": null,
+    "dist_coast_km": 9.98,
+    "dist_river_km": 41.99,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.45364,
+     19.86025
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Ganjam #10",
+    "asset_type": "road",
+    "district": "Ganjam",
+    "elevation_m": 210.8,
+    "age_years": 42.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 82.02,
+    "dist_river_km": 19.29,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.99057,
+     20.788
+    ]
+   },
+   "properties": {
+    "name": "School - Jajpur #04",
+    "asset_type": "school",
+    "district": "Jajpur",
+    "elevation_m": 32.4,
+    "age_years": 38.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 87.83,
+    "dist_river_km": 5.08,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.26733,
+     20.53334
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Kendrapara #02",
+    "asset_type": "power_substation",
+    "district": "Kendrapara",
+    "elevation_m": 18.3,
+    "age_years": 9.0,
+    "historical_damage_count": 0.0,
+    "capacity": "220/132 kV",
+    "dist_coast_km": 50.17,
+    "dist_river_km": 16.05,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.37148,
+     18.82592
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #20",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 244.1,
+    "age_years": 35.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 93.45,
+    "dist_river_km": 141.8,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.05532,
+     20.9307
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Dhenkanal #01",
+    "asset_type": "emergency_shelter",
+    "district": "Dhenkanal",
+    "elevation_m": 127.2,
+    "age_years": 33.0,
+    "historical_damage_count": 0.0,
+    "capacity": "2000 persons",
+    "dist_coast_km": 147.13,
+    "dist_river_km": 28.59,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.46631,
+     21.63864
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Balasore #07",
+    "asset_type": "mobile_tower",
+    "district": "Balasore",
+    "elevation_m": 3.1,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 2.37,
+    "dist_river_km": 8.43,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.65312,
+     21.43326
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Kendujhar #02",
+    "asset_type": "hospital",
+    "district": "Kendujhar",
+    "elevation_m": 284.9,
+    "age_years": 7.0,
+    "historical_damage_count": 0.0,
+    "capacity": "500 beds",
+    "dist_coast_km": 214.76,
+    "dist_river_km": 53.03,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.31314,
+     20.17911
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Jagatsinghpur #02",
+    "asset_type": "emergency_shelter",
+    "district": "Jagatsinghpur",
+    "elevation_m": 3.9,
+    "age_years": 33.0,
+    "historical_damage_count": 1.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 16.84,
+    "dist_river_km": 10.83,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.39439,
+     20.84172
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Jajpur #02",
+    "asset_type": "emergency_shelter",
+    "district": "Jajpur",
+    "elevation_m": 19.7,
+    "age_years": 14.0,
+    "historical_damage_count": 0.0,
+    "capacity": "1000 persons",
+    "dist_coast_km": 52.97,
+    "dist_river_km": 14.37,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.8263,
+     22.04086
+    ]
+   },
+   "properties": {
+    "name": "School - Mayurbhanj #02",
+    "asset_type": "school",
+    "district": "Mayurbhanj",
+    "elevation_m": 161.7,
+    "age_years": 53.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 142.21,
+    "dist_river_km": 64.91,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.52057,
+     18.67632
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Srikakulam #21",
+    "asset_type": "road",
+    "district": "Srikakulam",
+    "elevation_m": 228.4,
+    "age_years": 28.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 70.69,
+    "dist_river_km": 144.89,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.03001,
+     21.46298
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Balasore #06",
+    "asset_type": "bridge",
+    "district": "Balasore",
+    "elevation_m": 2.5,
+    "age_years": 52.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 2.52,
+    "dist_river_km": 0.51,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.08944,
+     19.97381
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Jagatsinghpur #04",
+    "asset_type": "mobile_tower",
+    "district": "Jagatsinghpur",
+    "elevation_m": 4.5,
+    "age_years": 13.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 9.5,
+    "dist_river_km": 21.84,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.17628,
+     20.57361
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Cuttack #01",
+    "asset_type": "power_substation",
+    "district": "Cuttack",
+    "elevation_m": 18.6,
+    "age_years": null,
+    "historical_damage_count": 2.0,
+    "capacity": "33/11 kV",
+    "dist_coast_km": 59.67,
+    "dist_river_km": 18.24,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.50682,
+     21.28938
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Bhadrak #02",
+    "asset_type": "hospital",
+    "district": "Bhadrak",
+    "elevation_m": 36.9,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": "250 beds",
+    "dist_coast_km": 47.34,
+    "dist_river_km": 35.98,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.10483,
+     20.09892
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Jagatsinghpur #03",
+    "asset_type": "power_substation",
+    "district": "Jagatsinghpur",
+    "elevation_m": 8.8,
+    "age_years": 22.0,
+    "historical_damage_count": 1.0,
+    "capacity": "132/33 kV",
+    "dist_coast_km": 20.58,
+    "dist_river_km": 11.13,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.19693,
+     20.93074
+    ]
+   },
+   "properties": {
+    "name": "School - Jajpur #05",
+    "asset_type": "school",
+    "district": "Jajpur",
+    "elevation_m": 34.8,
+    "age_years": 17.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 75.57,
+    "dist_river_km": 13.34,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.81211,
+     19.87195
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Puri #04",
+    "asset_type": "road",
+    "district": "Puri",
+    "elevation_m": 5.0,
+    "age_years": 29.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 8.19,
+    "dist_river_km": 50.73,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.49904,
+     19.8425
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Ganjam #11",
+    "asset_type": "road",
+    "district": "Ganjam",
+    "elevation_m": 203.1,
+    "age_years": 48.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 77.21,
+    "dist_river_km": 20.43,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.76085,
+     19.80554
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Puri #05",
+    "asset_type": "emergency_shelter",
+    "district": "Puri",
+    "elevation_m": 2.2,
+    "age_years": 20.0,
+    "historical_damage_count": 0.0,
+    "capacity": "500 persons",
+    "dist_coast_km": 3.37,
+    "dist_river_km": 59.71,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.60502,
+     22.08432
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Balasore #08",
+    "asset_type": "mobile_tower",
+    "district": "Balasore",
+    "elevation_m": 65.5,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 47.96,
+    "dist_river_km": 53.16,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.16709,
+     20.01414
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Jagatsinghpur #03",
+    "asset_type": "emergency_shelter",
+    "district": "Jagatsinghpur",
+    "elevation_m": 2.2,
+    "age_years": 26.0,
+    "historical_damage_count": 1.0,
+    "capacity": "500 persons",
+    "dist_coast_km": 9.15,
+    "dist_river_km": 12.85,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.52052,
+     19.89958
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Puri #02",
+    "asset_type": "hospital",
+    "district": "Puri",
+    "elevation_m": 11.8,
+    "age_years": 45.0,
+    "historical_damage_count": 0.0,
+    "capacity": "30 beds",
+    "dist_coast_km": 22.74,
+    "dist_river_km": 64.61,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.45087,
+     20.2166
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Khordha #03",
+    "asset_type": "water_facility",
+    "district": "Khordha",
+    "elevation_m": 37.2,
+    "age_years": 46.0,
+    "historical_damage_count": 2.0,
+    "capacity": null,
+    "dist_coast_km": 58.04,
+    "dist_river_km": 30.59,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.74011,
+     18.69267
+    ]
+   },
+   "properties": {
+    "name": "School - Srikakulam #03",
+    "asset_type": "school",
+    "district": "Srikakulam",
+    "elevation_m": 205.0,
+    "age_years": 20.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 57.55,
+    "dist_river_km": 130.09,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.30767,
+     19.99247
+    ]
+   },
+   "properties": {
+    "name": "School - Ganjam #06",
+    "asset_type": "school",
+    "district": "Ganjam",
+    "elevation_m": 232.4,
+    "age_years": 27.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 103.16,
+    "dist_river_km": 26.97,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.88769,
+     20.78871
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Bhadrak #05",
+    "asset_type": "emergency_shelter",
+    "district": "Bhadrak",
+    "elevation_m": 2.5,
+    "age_years": 41.0,
+    "historical_damage_count": 4.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 6.55,
+    "dist_river_km": 3.09,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.4961,
+     20.77888
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Kendrapara #07",
+    "asset_type": "emergency_shelter",
+    "district": "Kendrapara",
+    "elevation_m": 13.7,
+    "age_years": 8.0,
+    "historical_damage_count": 0.0,
+    "capacity": "1000 persons",
+    "dist_coast_km": 40.32,
+    "dist_river_km": 7.53,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.94289,
+     20.33536
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Cuttack #04",
+    "asset_type": "mobile_tower",
+    "district": "Cuttack",
+    "elevation_m": 17.5,
+    "age_years": 49.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 51.81,
+    "dist_river_km": 3.09,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.53307,
+     20.58662
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Kendrapara #02",
+    "asset_type": "hospital",
+    "district": "Kendrapara",
+    "elevation_m": 9.0,
+    "age_years": 27.0,
+    "historical_damage_count": 0.0,
+    "capacity": "500 beds",
+    "dist_coast_km": 27.2,
+    "dist_river_km": 14.15,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.74178,
+     20.71179
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Kendrapara #03",
+    "asset_type": "power_substation",
+    "district": "Kendrapara",
+    "elevation_m": 7.1,
+    "age_years": 44.0,
+    "historical_damage_count": 1.0,
+    "capacity": "33/11 kV",
+    "dist_coast_km": 14.76,
+    "dist_river_km": 2.89,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.14049,
+     22.14441
+    ]
+   },
+   "properties": {
+    "name": "School - Balasore #07",
+    "asset_type": "school",
+    "district": "Balasore",
+    "elevation_m": 113.7,
+    "age_years": 54.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 66.17,
+    "dist_river_km": 24.86,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.64277,
+     20.45313
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Kendrapara #08",
+    "asset_type": "emergency_shelter",
+    "district": "Kendrapara",
+    "elevation_m": 2.6,
+    "age_years": 45.0,
+    "historical_damage_count": 1.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 10.93,
+    "dist_river_km": 16.39,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.09617,
+     19.88994
+    ]
+   },
+   "properties": {
+    "name": "School - Nayagarh #05",
+    "asset_type": "school",
+    "district": "Nayagarh",
+    "elevation_m": 54.6,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 42.47,
+    "dist_river_km": 54.83,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.68498,
+     19.09731
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Ganjam #02",
+    "asset_type": "railway",
+    "district": "Ganjam",
+    "elevation_m": 12.6,
+    "age_years": 21.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 10.51,
+    "dist_river_km": 42.87,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.95338,
+     21.47922
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Balasore #03",
+    "asset_type": "water_facility",
+    "district": "Balasore",
+    "elevation_m": 4.6,
+    "age_years": 12.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 10.51,
+    "dist_river_km": 1.98,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.63844,
+     20.37072
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Ganjam #02",
+    "asset_type": "hospital",
+    "district": "Ganjam",
+    "elevation_m": 266.8,
+    "age_years": 21.0,
+    "historical_damage_count": 1.0,
+    "capacity": "250 beds",
+    "dist_coast_km": 182.69,
+    "dist_river_km": 97.57,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.70038,
+     19.27774
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Ganjam #02",
+    "asset_type": "power_substation",
+    "district": "Ganjam",
+    "elevation_m": 26.4,
+    "age_years": 6.0,
+    "historical_damage_count": 1.0,
+    "capacity": "33/11 kV",
+    "dist_coast_km": 20.66,
+    "dist_river_km": 23.76,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.50999,
+     20.18784
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Jagatsinghpur #04",
+    "asset_type": "emergency_shelter",
+    "district": "Jagatsinghpur",
+    "elevation_m": 3.5,
+    "age_years": 6.0,
+    "historical_damage_count": 2.0,
+    "capacity": "1500 persons",
+    "dist_coast_km": 4.48,
+    "dist_river_km": 15.5,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.55452,
+     19.50623
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Ganjam #04",
+    "asset_type": "emergency_shelter",
+    "district": "Ganjam",
+    "elevation_m": 134.6,
+    "age_years": 16.0,
+    "historical_damage_count": 0.0,
+    "capacity": "1000 persons",
+    "dist_coast_km": 47.74,
+    "dist_river_km": 6.73,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.38733,
+     20.9794
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Bhadrak #04",
+    "asset_type": "road",
+    "district": "Bhadrak",
+    "elevation_m": 20.4,
+    "age_years": 38.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 56.71,
+    "dist_river_km": 0.58,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.34215,
+     21.03419
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Bhadrak #01",
+    "asset_type": "railway",
+    "district": "Bhadrak",
+    "elevation_m": 27.3,
+    "age_years": 54.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 60.42,
+    "dist_river_km": 3.17,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.09759,
+     20.60703
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Cuttack #02",
+    "asset_type": "hospital",
+    "district": "Cuttack",
+    "elevation_m": 25.3,
+    "age_years": 28.0,
+    "historical_damage_count": 0.0,
+    "capacity": "100 beds",
+    "dist_coast_km": 67.75,
+    "dist_river_km": 19.99,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.35517,
+     19.62417
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Puri #05",
+    "asset_type": "road",
+    "district": "Puri",
+    "elevation_m": 2.7,
+    "age_years": null,
+    "historical_damage_count": 2.0,
+    "capacity": null,
+    "dist_coast_km": 2.96,
+    "dist_river_km": 41.94,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.16603,
+     20.77748
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Jajpur #02",
+    "asset_type": "road",
+    "district": "Jajpur",
+    "elevation_m": 19.4,
+    "age_years": 51.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 70.56,
+    "dist_river_km": 0.05,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.83512,
+     19.44276
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Ganjam #05",
+    "asset_type": "bridge",
+    "district": "Ganjam",
+    "elevation_m": 20.5,
+    "age_years": 14.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 21.18,
+    "dist_river_km": 1.35,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.48872,
+     20.17834
+    ]
+   },
+   "properties": {
+    "name": "School - Jagatsinghpur #02",
+    "asset_type": "school",
+    "district": "Jagatsinghpur",
+    "elevation_m": 3.7,
+    "age_years": 36.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 5.08,
+    "dist_river_km": 17.04,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.43697,
+     19.24972
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Ganjam #08",
+    "asset_type": "mobile_tower",
+    "district": "Ganjam",
+    "elevation_m": 115.2,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 41.55,
+    "dist_river_km": 37.52,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.90944,
+     20.41949
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Cuttack #01",
+    "asset_type": "water_facility",
+    "district": "Cuttack",
+    "elevation_m": 17.5,
+    "age_years": 19.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 61.61,
+    "dist_river_km": 1.58,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.65191,
+     21.21574
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Bhadrak #02",
+    "asset_type": "railway",
+    "district": "Bhadrak",
+    "elevation_m": 13.3,
+    "age_years": 30.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 30.47,
+    "dist_river_km": 34.39,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.21177,
+     19.95962
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Jagatsinghpur #06",
+    "asset_type": "road",
+    "district": "Jagatsinghpur",
+    "elevation_m": 1.5,
+    "age_years": 51.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 1.55,
+    "dist_river_km": 13.6,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.50091,
+     20.37773
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Kendrapara #03",
+    "asset_type": "hospital",
+    "district": "Kendrapara",
+    "elevation_m": 9.2,
+    "age_years": 2.0,
+    "historical_damage_count": 0.0,
+    "capacity": "30 beds",
+    "dist_coast_km": 21.32,
+    "dist_river_km": 4.83,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.46588,
+     20.24441
+    ]
+   },
+   "properties": {
+    "name": "Power Substation - Khordha #02",
+    "asset_type": "power_substation",
+    "district": "Khordha",
+    "elevation_m": 34.7,
+    "age_years": null,
+    "historical_damage_count": 1.0,
+    "capacity": "33/11 kV",
+    "dist_coast_km": 60.28,
+    "dist_river_km": 27.28,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.50514,
+     19.24016
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Ganjam #12",
+    "asset_type": "road",
+    "district": "Ganjam",
+    "elevation_m": 80.0,
+    "age_years": 22.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 35.08,
+    "dist_river_km": 35.61,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.7025,
+     20.22148
+    ]
+   },
+   "properties": {
+    "name": "Railway Infrastructure - Khordha #03",
+    "asset_type": "railway",
+    "district": "Khordha",
+    "elevation_m": 23.6,
+    "age_years": 32.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 48.7,
+    "dist_river_km": 28.22,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.07369,
+     21.05394
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Jajpur #03",
+    "asset_type": "road",
+    "district": "Jajpur",
+    "elevation_m": 44.4,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 87.97,
+    "dist_river_km": 5.8,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.98995,
+     19.9018
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Puri #06",
+    "asset_type": "emergency_shelter",
+    "district": "Puri",
+    "elevation_m": 2.4,
+    "age_years": 5.0,
+    "historical_damage_count": 1.0,
+    "capacity": "1000 persons",
+    "dist_coast_km": 5.77,
+    "dist_river_km": 34.91,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.92253,
+     21.67445
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Kendujhar #03",
+    "asset_type": "mobile_tower",
+    "district": "Kendujhar",
+    "elevation_m": 134.9,
+    "age_years": 27.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 118.27,
+    "dist_river_km": 43.52,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.49661,
+     19.75808
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Puri #06",
+    "asset_type": "road",
+    "district": "Puri",
+    "elevation_m": 3.0,
+    "age_years": 53.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 9.2,
+    "dist_river_km": 62.86,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.91982,
+     19.83851
+    ]
+   },
+   "properties": {
+    "name": "Water Facility - Ganjam #07",
+    "asset_type": "water_facility",
+    "district": "Ganjam",
+    "elevation_m": 251.3,
+    "age_years": 32.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 123.25,
+    "dist_river_km": 40.96,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.91838,
+     20.81849
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Bhadrak #05",
+    "asset_type": "mobile_tower",
+    "district": "Bhadrak",
+    "elevation_m": 2.6,
+    "age_years": 45.0,
+    "historical_damage_count": 2.0,
+    "capacity": null,
+    "dist_coast_km": 4.99,
+    "dist_river_km": 1.01,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.70022,
+     20.37835
+    ]
+   },
+   "properties": {
+    "name": "Emergency Shelter - Kendrapara #09",
+    "asset_type": "emergency_shelter",
+    "district": "Kendrapara",
+    "elevation_m": 1.6,
+    "age_years": null,
+    "historical_damage_count": 0.0,
+    "capacity": "2000 persons",
+    "dist_coast_km": 2.19,
+    "dist_river_km": 10.16,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.63451,
+     20.94922
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Bhadrak #05",
+    "asset_type": "road",
+    "district": "Bhadrak",
+    "elevation_m": 10.3,
+    "age_years": 27.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 31.87,
+    "dist_river_km": 6.28,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.55507,
+     18.71241
+    ]
+   },
+   "properties": {
+    "name": "School - Srikakulam #04",
+    "asset_type": "school",
+    "district": "Srikakulam",
+    "elevation_m": 233.4,
+    "age_years": 6.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 71.58,
+    "dist_river_km": 139.5,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.02009,
+     19.39715
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Ganjam #03",
+    "asset_type": "hospital",
+    "district": "Ganjam",
+    "elevation_m": 4.0,
+    "age_years": 39.0,
+    "historical_damage_count": 0.0,
+    "capacity": "100 beds",
+    "dist_coast_km": 3.59,
+    "dist_river_km": 0.7,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.95703,
+     21.50178
+    ]
+   },
+   "properties": {
+    "name": "Bridge - Balasore #07",
+    "asset_type": "bridge",
+    "district": "Balasore",
+    "elevation_m": 3.2,
+    "age_years": 27.0,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 11.21,
+    "dist_river_km": 0.47,
+    "in_flood_zone": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.74445,
+     20.01016
+    ]
+   },
+   "properties": {
+    "name": "Road Segment - Puri #07",
+    "asset_type": "road",
+    "district": "Puri",
+    "elevation_m": 10.7,
+    "age_years": 44.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 25.02,
+    "dist_river_km": 43.91,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.60624,
+     19.95593
+    ]
+   },
+   "properties": {
+    "name": "School - Puri #02",
+    "asset_type": "school",
+    "district": "Puri",
+    "elevation_m": 10.6,
+    "age_years": 54.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 25.04,
+    "dist_river_km": 58.01,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.97549,
+     18.28413
+    ]
+   },
+   "properties": {
+    "name": "Hospital - Srikakulam #04",
+    "asset_type": "hospital",
+    "district": "Srikakulam",
+    "elevation_m": 11.2,
+    "age_years": 35.0,
+    "historical_damage_count": 1.0,
+    "capacity": "30 beds",
+    "dist_coast_km": 6.76,
+    "dist_river_km": 155.44,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.60135,
+     19.86059
+    ]
+   },
+   "properties": {
+    "name": "School - Puri #03",
+    "asset_type": "school",
+    "district": "Puri",
+    "elevation_m": 7.2,
+    "age_years": null,
+    "historical_damage_count": 1.0,
+    "capacity": null,
+    "dist_coast_km": 15.47,
+    "dist_river_km": 66.3,
+    "in_flood_zone": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.94932,
+     20.16909
+    ]
+   },
+   "properties": {
+    "name": "Mobile Tower - Jagatsinghpur #05",
+    "asset_type": "mobile_tower",
+    "district": "Jagatsinghpur",
+    "elevation_m": 11.9,
+    "age_years": 45.0,
+    "historical_damage_count": 0.0,
+    "capacity": null,
+    "dist_coast_km": 35.39,
+    "dist_river_km": 16.48,
+    "in_flood_zone": true
+   }
+  }
+ ]
+}

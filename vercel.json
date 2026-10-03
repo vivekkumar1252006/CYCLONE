@@ -1,6 +1,17 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "framework": "vite",
-  "envPrefix": "VITE_"
+  "services": {
+    "web": {
+      "root": ".",
+      "entrypoint": "api/index.py"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": {
+        "type": "service",
+        "service": "web"
+      }
+    }
+  ]
 }

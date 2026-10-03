@@ -1,0 +1,11 @@
+.venv
+frontend
+node_modules
+scripts/screenshot
+docs
+tests
+docker
+data/*.db
+data/demo_export
+models
+.env

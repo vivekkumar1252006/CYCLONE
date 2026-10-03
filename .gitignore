@@ -10,3 +10,5 @@ scripts/screenshot/node_modules/
 models/*.joblib
 models/*.json
 !models/.gitkeep
+
+.vercel

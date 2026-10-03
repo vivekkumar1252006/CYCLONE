@@ -60,10 +60,10 @@ await page.waitForTimeout(800);
 await page.screenshot({ path: `${out}/05_charts.png` });
 
 step("9-10. full asset page: recommendations + confidence");
-const firstHref = await page.evaluate(async () => {
-  const r = await fetch("/api/risk/priority?limit=1").then((x) => x.json());
+const firstHref = await page.evaluate(async (api) => {
+  const r = await fetch(`${api}/api/risk/priority?limit=1`).then((x) => x.json());
   return `/asset/${r.items[0].asset_id}`;
-});
+}, process.argv[3] ?? "");
 await page.goto(base + firstHref);
 await page.waitForSelector(".rec-list");
 await page.screenshot({ path: `${out}/06_asset_page.png`, fullPage: true });
